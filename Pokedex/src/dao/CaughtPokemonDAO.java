@@ -49,12 +49,17 @@ public class CaughtPokemonDAO {
             ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
             if(rs.next()) {
                 List<Move> moves = new ArrayList<>(); //FIX ME: GET MOVES
-                return new CaughtPokemon(rs.getInt(""),
-                        rs.getInt(""),
-                        rs.getInt(""),
-                        rs.getString(""),
-                        rs.getInt(""),
-                        rs.getString(""),
+                moves.add(new MoveDAO().get(rs.getInt("CaughtPokemonMoveID1")));
+                moves.add(new MoveDAO().get(rs.getInt("CaughtPokemonMoveID2")));
+                moves.add(new MoveDAO().get(rs.getInt("CaughtPokemonMoveID3")));
+                moves.add(new MoveDAO().get(rs.getInt("CaughtPokemonMoveID4")));
+                return new CaughtPokemon(
+                        rs.getInt("CaughtPokemonID"),
+                        rs.getInt("TrainerID"),
+                        rs.getInt("SpeciesID"),
+                        rs.getString("CaughtPokemonSex"),
+                        rs.getInt("CaughtPokemonLevel"),
+                        rs.getString("CaughtPokemonNickname"),
                         moves
                         ); //FIX ME: COLUMN NAMES
             }
