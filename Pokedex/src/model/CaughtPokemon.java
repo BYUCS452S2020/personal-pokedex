@@ -21,60 +21,19 @@ public class CaughtPokemon {
         this.moves = moves;
     }
 
-    public int getId() {
-        return id;
-    }
+    public int getId() { return id; }
+    public int getTrainerId() { return trainerId; }
+    public int getSpeciesId() { return speciesId; }
+    public String getSex() { return sex; }
+    public int getLevel() { return level; }
+    public String getNickname() { return nickname; }
+    public List<Move> getMoves() { return moves; }
 
-    public int getTrainerId() {
-        return trainerId;
-    }
-
-    public int getSpeciesId() {
-        return speciesId;
-    }
-
-    public String getSex() {
-        return sex;
-    }
-
-    public int getLevel() {
-        return level;
-    }
-
-    public String getNickname() {
-        return nickname;
-    }
-
-    public List<Move> getMoves() {
-        return moves;
-    }
-
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public void setTrainerId(int trainerId) {
-        this.trainerId = trainerId;
-    }
-
-    public void setSpeciesId(int speciesId) {
-        this.speciesId = speciesId;
-    }
-
-    public void setSex(String sex) {
-        this.sex = sex;
-    }
-
-    public void setLevel(int level) {
-        this.level = level;
-    }
-
-    public void setNickname(String nickname) {
-        this.nickname = nickname;
-    }
-
-    public void setMoves(List<Move> moves) {
-        this.moves = moves;
-    }
+    public void setId(int id) { this.id = id; }
+    public void setTrainerId(int trainerId) { this.trainerId = trainerId; }
+    public void setSpeciesId(int speciesId) { this.speciesId = speciesId; }
+    public void setSex(String sex) { this.sex = sex; }
+    public void setLevel(int level) { this.level = level; }
+    public void setNickname(String nickname) { this.nickname = nickname; }
+    public void setMoves(List<Move> moves) { this.moves = moves; }
 }
