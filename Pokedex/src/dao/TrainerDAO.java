@@ -47,10 +47,10 @@ public class TrainerDAO {
             ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
             if(rs.next()) {
                 return new Trainer(
-                        rs.getInt(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getString("")
+                        rs.getInt("TrainerID"),
+                        rs.getString("TrainerName"),
+                        rs.getString("TrainerSex"),
+                        rs.getString("TrainerHometown")
                 ); //FIX ME: COLUMN NAMES
             }
         } catch (SQLException ex) {
@@ -64,9 +64,9 @@ public class TrainerDAO {
         List<CaughtPokemon> pokemon = new ArrayList<>();
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY JOIN TABLES
             while(rs.next()) {
-                pokemon.add(new CaughtPokemonDAO().get(trainerID, rs.getInt("")));//FIX ME: COLUMN NAME
+                pokemon.add(null);//FIX ME: RS.GETS
             }
         } catch (SQLException ex) {
             ex.printStackTrace();
@@ -79,9 +79,9 @@ public class TrainerDAO {
         List<PokemonSpecies> species = new ArrayList<>();
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY JOIN TABLES
             while(rs.next()) {
-                species.add(new PokemonSpeciesDAO().get(rs.getInt("")));//FIX ME: COLUMN NAME
+                species.add(null);//FIX ME: RS.GETS
             }
         } catch (SQLException ex) {
             ex.printStackTrace();

@@ -59,20 +59,20 @@ public class PokemonSpeciesDAO {
             if(rs.next()) {
                 List<Pair<String,Move>> moves = new ArrayList<>(); //FIX ME: GET MOVES
                 return new PokemonSpecies(
-                        rs.getInt(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getInt(""),
-                        rs.getInt(""),
-                        rs.getInt(""),
-                        rs.getInt(""),
-                        rs.getInt(""),
+                        rs.getInt("SpeciesID"),
+                        rs.getString("SpeciesName"),
+                        rs.getString("SpeciesPokemonName"),
+                        rs.getString("SpeciesImageUrl"),
+                        rs.getString("SpeciesType1"),
+                        rs.getString("SpeciesType2"),
+                        rs.getString("SpeciesHeight"),
+                        rs.getString("SpeciesWeight"),
+                        rs.getString("SpeciesText"),
+                        rs.getInt("SpeciesBaseHP"),
+                        rs.getInt("SpeciesBaseAttack"),
+                        rs.getInt("SpeciesBaseDefense"),
+                        rs.getInt("SpeciesBaseSpecial"),
+                        rs.getInt("SpeciesBaseSpeed"),
                         moves
                 ); //FIX ME: COLUMN NAMES
             }
@@ -87,9 +87,9 @@ public class PokemonSpeciesDAO {
         List<Pair<String, Move>> moves = new ArrayList<>();
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY JOIN TABLES
             while(rs.next()) {
-                moves.add(new Pair<>(rs.getString(""), new MoveDAO().get(rs.getInt(""))));//FIX ME: COLUMN NAME
+                moves.add(null);//FIX ME: RS.GETS
             }
         } catch (SQLException ex) {
             ex.printStackTrace();

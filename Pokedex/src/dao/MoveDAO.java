@@ -47,13 +47,13 @@ public class MoveDAO {
             ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
             if(rs.next()) {
                 return new Move(
-                        rs.getInt(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getString(""),
-                        rs.getInt(""),
-                        rs.getInt(""),
-                        rs.getInt("")
+                        rs.getInt("MoveID"),
+                        rs.getString("MoveName"),
+                        rs.getString("MoveType"),
+                        rs.getString("MoveText"),
+                        rs.getInt("MovePP"),
+                        rs.getInt("MoveBase"),
+                        rs.getInt("MoveAccuracy")
                         ); //FIX ME: COLUMN NAMES
             }
         } catch (SQLException ex) {
