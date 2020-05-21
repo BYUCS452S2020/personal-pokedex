@@ -3,6 +3,7 @@ package dao;
 import model.*;
 
 public class CaughtPokemonDAO {
+
     public boolean add(CaughtPokemon pokemon){
         return false;
     }

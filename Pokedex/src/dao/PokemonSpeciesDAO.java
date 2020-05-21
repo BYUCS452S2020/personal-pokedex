@@ -1,9 +1,6 @@
 package dao;
 
-import javafx.util.Pair;
 import model.*;
-
-import java.util.List;
 
 public class PokemonSpeciesDAO {
     public boolean add(PokemonSpecies species){
