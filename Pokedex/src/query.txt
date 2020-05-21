@@ -1,0 +1,18 @@
+GetTrainersPokemon
+SELECT * FROM Trainer t
+	JOIN CaughtPokemon c ON t.TrainerID == c.TrainerID
+		WHERE t.TrainerID == ?
+
+
+GetMoves
+SELECT * FROM Move
+	WHERE MoveID IN (?, ?, ?, ?)
+
+AddPokemon
+INSERT INTO CaughtPokemon (CaughtPokemonID, TrainerID, SpeciesID, CaughtPokemonSex, CaughtPokemonLevel, CaughtPokemonNickname, CaughtPokemonMoveID1, CaughtPokemonMoveID2, CaughtPokemonMoveID3, CaughtPokemonMoveID4) 
+	VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+
+GetPossibleMoves
+SELECT * FROM Move m
+	Join PokemonMove p on m.MoveID == p.MoveID
+		Where p.PokemonID == ?

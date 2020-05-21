@@ -1,0 +1,5317 @@
+[
+    {
+        "PokemonSpeciesID": 43,
+        "MoveID": 1,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 44,
+        "MoveID": 1,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 114,
+        "MoveID": 1,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 140,
+        "MoveID": 1,
+        "Requirement": "Lv. 34"
+    },
+    {
+        "PokemonSpeciesID": 141,
+        "MoveID": 1,
+        "Requirement": "Lv.  34"
+    },
+    {
+        "PokemonSpeciesID": 141,
+        "MoveID": 1,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 23,
+        "MoveID": 2,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 24,
+        "MoveID": 2,
+        "Requirement": "Lv. 47"
+    },
+    {
+        "PokemonSpeciesID": 43,
+        "MoveID": 2,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 44,
+        "MoveID": 2,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 45,
+        "MoveID": 2,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 69,
+        "MoveID": 2,
+        "Requirement": "Lv. 26"
+    },
+    {
+        "PokemonSpeciesID": 70,
+        "MoveID": 2,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 71,
+        "MoveID": 2,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 72,
+        "MoveID": 2,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 2,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 88,
+        "MoveID": 3,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 89,
+        "MoveID": 3,
+        "Requirement": "Lv. 60"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 3,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 15,
+        "MoveID": 4,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 16,
+        "MoveID": 4,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 17,
+        "MoveID": 4,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 18,
+        "MoveID": 4,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 21,
+        "MoveID": 4,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 22,
+        "MoveID": 4,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 25,
+        "MoveID": 4,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 58,
+        "MoveID": 4,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 77,
+        "MoveID": 4,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 4,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 83,
+        "MoveID": 4,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 84,
+        "MoveID": 4,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 85,
+        "MoveID": 4,
+        "Requirement": "Lv. 51"
+    },
+    {
+        "PokemonSpeciesID": 107,
+        "MoveID": 4,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 116,
+        "MoveID": 4,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 117,
+        "MoveID": 4,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 118,
+        "MoveID": 4,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 119,
+        "MoveID": 4,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 123,
+        "MoveID": 4,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 4,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 137,
+        "MoveID": 4,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 142,
+        "MoveID": 4,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 144,
+        "MoveID": 4,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 145,
+        "MoveID": 4,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 146,
+        "MoveID": 4,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 147,
+        "MoveID": 4,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 148,
+        "MoveID": 4,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 149,
+        "MoveID": 4,
+        "Requirement": "Lv.  20"
+    },
+    {
+        "PokemonSpeciesID": 149,
+        "MoveID": 4,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 60,
+        "MoveID": 5,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 61,
+        "MoveID": 5,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 79,
+        "MoveID": 5,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 5,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 143,
+        "MoveID": 5,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 150,
+        "MoveID": 5,
+        "Requirement": "Lv. 81"
+    },
+    {
+        "PokemonSpeciesID": 86,
+        "MoveID": 6,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 87,
+        "MoveID": 6,
+        "Requirement": "Lv.  35"
+    },
+    {
+        "PokemonSpeciesID": 87,
+        "MoveID": 6,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 90,
+        "MoveID": 6,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 91,
+        "MoveID": 6,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 102,
+        "MoveID": 7,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 103,
+        "MoveID": 7,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 72,
+        "MoveID": 8,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 8,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 122,
+        "MoveID": 8,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 150,
+        "MoveID": 8,
+        "Requirement": "Lv. 63"
+    },
+    {
+        "PokemonSpeciesID": 95,
+        "MoveID": 10,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 114,
+        "MoveID": 10,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 7,
+        "MoveID": 11,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 8,
+        "MoveID": 11,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 11,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 23,
+        "MoveID": 11,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 24,
+        "MoveID": 11,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 29,
+        "MoveID": 11,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 30,
+        "MoveID": 11,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 41,
+        "MoveID": 11,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 42,
+        "MoveID": 11,
+        "Requirement": "Lv.  15"
+    },
+    {
+        "PokemonSpeciesID": 42,
+        "MoveID": 11,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 52,
+        "MoveID": 11,
+        "Requirement": "Lv. 12"
+    },
+    {
+        "PokemonSpeciesID": 53,
+        "MoveID": 11,
+        "Requirement": "Lv.  12"
+    },
+    {
+        "PokemonSpeciesID": 53,
+        "MoveID": 11,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 58,
+        "MoveID": 11,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 115,
+        "MoveID": 11,
+        "Requirement": "Lv. 26"
+    },
+    {
+        "PokemonSpeciesID": 130,
+        "MoveID": 11,
+        "Requirement": "Lv.  20"
+    },
+    {
+        "PokemonSpeciesID": 130,
+        "MoveID": 11,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 133,
+        "MoveID": 11,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 11,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 11,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 142,
+        "MoveID": 11,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 124,
+        "MoveID": 12,
+        "Requirement": "Lv. 58"
+    },
+    {
+        "PokemonSpeciesID": 144,
+        "MoveID": 12,
+        "Requirement": "Lv. 51"
+    },
+    {
+        "PokemonSpeciesID": 31,
+        "MoveID": 13,
+        "Requirement": "Lv.  23"
+    },
+    {
+        "PokemonSpeciesID": 31,
+        "MoveID": 13,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 39,
+        "MoveID": 13,
+        "Requirement": "Lv. 34"
+    },
+    {
+        "PokemonSpeciesID": 60,
+        "MoveID": 13,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 61,
+        "MoveID": 13,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 62,
+        "MoveID": 13,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 124,
+        "MoveID": 13,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 131,
+        "MoveID": 13,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 143,
+        "MoveID": 13,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 104,
+        "MoveID": 14,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 105,
+        "MoveID": 14,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 104,
+        "MoveID": 15,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 105,
+        "MoveID": 15,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 7,
+        "MoveID": 16,
+        "Requirement": "Lv. 8"
+    },
+    {
+        "PokemonSpeciesID": 8,
+        "MoveID": 16,
+        "Requirement": "Lv.  8"
+    },
+    {
+        "PokemonSpeciesID": 8,
+        "MoveID": 16,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 16,
+        "Requirement": "Lv.  8"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 16,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 60,
+        "MoveID": 16,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 61,
+        "MoveID": 16,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 98,
+        "MoveID": 16,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 99,
+        "MoveID": 16,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 116,
+        "MoveID": 16,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 117,
+        "MoveID": 16,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 90,
+        "MoveID": 18,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 91,
+        "MoveID": 18,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 107,
+        "MoveID": 19,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 115,
+        "MoveID": 19,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 37,
+        "MoveID": 20,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 41,
+        "MoveID": 20,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 42,
+        "MoveID": 20,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 92,
+        "MoveID": 20,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 93,
+        "MoveID": 20,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 94,
+        "MoveID": 20,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 126,
+        "MoveID": 20,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 131,
+        "MoveID": 20,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 12,
+        "MoveID": 21,
+        "Requirement": "Lv.  12"
+    },
+    {
+        "PokemonSpeciesID": 12,
+        "MoveID": 21,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 54,
+        "MoveID": 21,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 55,
+        "MoveID": 21,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 64,
+        "MoveID": 21,
+        "Requirement": "Lv.  16"
+    },
+    {
+        "PokemonSpeciesID": 64,
+        "MoveID": 21,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 65,
+        "MoveID": 21,
+        "Requirement": "Lv.  16"
+    },
+    {
+        "PokemonSpeciesID": 65,
+        "MoveID": 21,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 79,
+        "MoveID": 21,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 21,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 96,
+        "MoveID": 21,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 21,
+        "Requirement": "Lv.  17"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 21,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 122,
+        "MoveID": 21,
+        "Requirement": "Lv.  15"
+    },
+    {
+        "PokemonSpeciesID": 122,
+        "MoveID": 21,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 150,
+        "MoveID": 21,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 72,
+        "MoveID": 22,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 22,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 114,
+        "MoveID": 22,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 137,
+        "MoveID": 23,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 107,
+        "MoveID": 24,
+        "Requirement": "Lv. 53"
+    },
+    {
+        "PokemonSpeciesID": 98,
+        "MoveID": 25,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 99,
+        "MoveID": 25,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 35,
+        "MoveID": 27,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 39,
+        "MoveID": 27,
+        "Requirement": "Lv. 19"
+    },
+    {
+        "PokemonSpeciesID": 40,
+        "MoveID": 27,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 74,
+        "MoveID": 27,
+        "Requirement": "Lv. 11"
+    },
+    {
+        "PokemonSpeciesID": 75,
+        "MoveID": 27,
+        "Requirement": "Lv.  11"
+    },
+    {
+        "PokemonSpeciesID": 75,
+        "MoveID": 27,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 76,
+        "MoveID": 27,
+        "Requirement": "Lv.  11"
+    },
+    {
+        "PokemonSpeciesID": 76,
+        "MoveID": 27,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 108,
+        "MoveID": 27,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 113,
+        "MoveID": 27,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 50,
+        "MoveID": 28,
+        "Requirement": "Lv. 19"
+    },
+    {
+        "PokemonSpeciesID": 51,
+        "MoveID": 28,
+        "Requirement": "Lv.  19"
+    },
+    {
+        "PokemonSpeciesID": 51,
+        "MoveID": 28,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 39,
+        "MoveID": 29,
+        "Requirement": "Lv. 14"
+    },
+    {
+        "PokemonSpeciesID": 40,
+        "MoveID": 29,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 48,
+        "MoveID": 29,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 29,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 54,
+        "MoveID": 29,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 55,
+        "MoveID": 29,
+        "Requirement": "Lv.  31"
+    },
+    {
+        "PokemonSpeciesID": 55,
+        "MoveID": 29,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 64,
+        "MoveID": 29,
+        "Requirement": "Lv.  20"
+    },
+    {
+        "PokemonSpeciesID": 64,
+        "MoveID": 29,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 65,
+        "MoveID": 29,
+        "Requirement": "Lv.  20"
+    },
+    {
+        "PokemonSpeciesID": 65,
+        "MoveID": 29,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 79,
+        "MoveID": 29,
+        "Requirement": "Lv. 18"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 29,
+        "Requirement": "Lv.  18"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 29,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 88,
+        "MoveID": 29,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 89,
+        "MoveID": 29,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 96,
+        "MoveID": 29,
+        "Requirement": "Lv. 12"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 29,
+        "Requirement": "Lv.  12"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 29,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 108,
+        "MoveID": 29,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 150,
+        "MoveID": 29,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 115,
+        "MoveID": 30,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 29,
+        "MoveID": 31,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 30,
+        "MoveID": 31,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 32,
+        "MoveID": 31,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 33,
+        "MoveID": 31,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 106,
+        "MoveID": 31,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 31,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 35,
+        "MoveID": 32,
+        "Requirement": "Lv. 18"
+    },
+    {
+        "PokemonSpeciesID": 36,
+        "MoveID": 32,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 39,
+        "MoveID": 32,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 40,
+        "MoveID": 32,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 60,
+        "MoveID": 32,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 61,
+        "MoveID": 32,
+        "Requirement": "Lv. 26"
+    },
+    {
+        "PokemonSpeciesID": 62,
+        "MoveID": 32,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 113,
+        "MoveID": 32,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 122,
+        "MoveID": 32,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 124,
+        "MoveID": 32,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 123,
+        "MoveID": 33,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 39,
+        "MoveID": 34,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 113,
+        "MoveID": 34,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 143,
+        "MoveID": 34,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 130,
+        "MoveID": 35,
+        "Requirement": "Lv.  25"
+    },
+    {
+        "PokemonSpeciesID": 130,
+        "MoveID": 35,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 147,
+        "MoveID": 35,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 148,
+        "MoveID": 35,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 149,
+        "MoveID": 35,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 92,
+        "MoveID": 36,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 93,
+        "MoveID": 36,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 94,
+        "MoveID": 36,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 21,
+        "MoveID": 37,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 22,
+        "MoveID": 37,
+        "Requirement": "Lv. 34"
+    },
+    {
+        "PokemonSpeciesID": 84,
+        "MoveID": 37,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 85,
+        "MoveID": 37,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 145,
+        "MoveID": 37,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 50,
+        "MoveID": 38,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 51,
+        "MoveID": 38,
+        "Requirement": "Lv. 47"
+    },
+    {
+        "PokemonSpeciesID": 74,
+        "MoveID": 38,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 75,
+        "MoveID": 38,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 76,
+        "MoveID": 38,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 4,
+        "MoveID": 40,
+        "Requirement": "Lv. 9"
+    },
+    {
+        "PokemonSpeciesID": 5,
+        "MoveID": 40,
+        "Requirement": "Lv.  9"
+    },
+    {
+        "PokemonSpeciesID": 5,
+        "MoveID": 40,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 40,
+        "Requirement": "Lv.  9"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 40,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 37,
+        "MoveID": 40,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 38,
+        "MoveID": 40,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 58,
+        "MoveID": 40,
+        "Requirement": "Lv. 18"
+    },
+    {
+        "PokemonSpeciesID": 59,
+        "MoveID": 40,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 77,
+        "MoveID": 40,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 40,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 126,
+        "MoveID": 40,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 40,
+        "Requirement": "Lv.  31"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 40,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 74,
+        "MoveID": 41,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 75,
+        "MoveID": 41,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 76,
+        "MoveID": 41,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 100,
+        "MoveID": 41,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 101,
+        "MoveID": 41,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 109,
+        "MoveID": 41,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 110,
+        "MoveID": 41,
+        "Requirement": "Lv. 53"
+    },
+    {
+        "PokemonSpeciesID": 107,
+        "MoveID": 43,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 126,
+        "MoveID": 43,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 4,
+        "MoveID": 44,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 5,
+        "MoveID": 44,
+        "Requirement": "Lv. 56"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 44,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 37,
+        "MoveID": 44,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 77,
+        "MoveID": 44,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 44,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 44,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 146,
+        "MoveID": 44,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 4,
+        "MoveID": 46,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 5,
+        "MoveID": 46,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 46,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 37,
+        "MoveID": 46,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 58,
+        "MoveID": 46,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 126,
+        "MoveID": 46,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 46,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 15,
+        "MoveID": 49,
+        "Requirement": "Lv. 16"
+    },
+    {
+        "PokemonSpeciesID": 19,
+        "MoveID": 49,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 20,
+        "MoveID": 49,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 32,
+        "MoveID": 49,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 33,
+        "MoveID": 49,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 56,
+        "MoveID": 49,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 57,
+        "MoveID": 49,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 66,
+        "MoveID": 49,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 67,
+        "MoveID": 49,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 68,
+        "MoveID": 49,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 104,
+        "MoveID": 49,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 105,
+        "MoveID": 49,
+        "Requirement": "Lv.  33"
+    },
+    {
+        "PokemonSpeciesID": 105,
+        "MoveID": 49,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 106,
+        "MoveID": 49,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 123,
+        "MoveID": 49,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 127,
+        "MoveID": 49,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 15,
+        "MoveID": 50,
+        "Requirement": "Lv.  12"
+    },
+    {
+        "PokemonSpeciesID": 15,
+        "MoveID": 50,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 21,
+        "MoveID": 50,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 22,
+        "MoveID": 50,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 32,
+        "MoveID": 50,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 33,
+        "MoveID": 50,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 83,
+        "MoveID": 50,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 84,
+        "MoveID": 50,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 85,
+        "MoveID": 50,
+        "Requirement": "Lv.  24"
+    },
+    {
+        "PokemonSpeciesID": 85,
+        "MoveID": 50,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 111,
+        "MoveID": 50,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 112,
+        "MoveID": 50,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 118,
+        "MoveID": 50,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 119,
+        "MoveID": 50,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 27,
+        "MoveID": 51,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 28,
+        "MoveID": 51,
+        "Requirement": "Lv. 47"
+    },
+    {
+        "PokemonSpeciesID": 29,
+        "MoveID": 51,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 30,
+        "MoveID": 51,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 52,
+        "MoveID": 51,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 53,
+        "MoveID": 51,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 54,
+        "MoveID": 51,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 55,
+        "MoveID": 51,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 56,
+        "MoveID": 51,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 57,
+        "MoveID": 51,
+        "Requirement": "Lv.  21"
+    },
+    {
+        "PokemonSpeciesID": 57,
+        "MoveID": 51,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 23,
+        "MoveID": 52,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 24,
+        "MoveID": 52,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 1,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 2,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 4,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 5,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 21,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 22,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 25,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 26,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 29,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 30,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 35,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 50,
+        "MoveID": 53,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 51,
+        "MoveID": 53,
+        "Requirement": "Lv.  15"
+    },
+    {
+        "PokemonSpeciesID": 51,
+        "MoveID": 53,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 52,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 53,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 77,
+        "MoveID": 53,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 53,
+        "Requirement": "Lv.  35"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 53,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 79,
+        "MoveID": 53,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 53,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 84,
+        "MoveID": 53,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 85,
+        "MoveID": 53,
+        "Requirement": "Lv.  20"
+    },
+    {
+        "PokemonSpeciesID": 85,
+        "MoveID": 53,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 86,
+        "MoveID": 53,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 87,
+        "MoveID": 53,
+        "Requirement": "Lv.  30"
+    },
+    {
+        "PokemonSpeciesID": 87,
+        "MoveID": 53,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 104,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 105,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 113,
+        "MoveID": 53,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 131,
+        "MoveID": 53,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 98,
+        "MoveID": 54,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 99,
+        "MoveID": 54,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 127,
+        "MoveID": 54,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 16,
+        "MoveID": 55,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 17,
+        "MoveID": 55,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 18,
+        "MoveID": 55,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 11,
+        "MoveID": 56,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 14,
+        "MoveID": 56,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 74,
+        "MoveID": 56,
+        "Requirement": "Lv. 26"
+    },
+    {
+        "PokemonSpeciesID": 75,
+        "MoveID": 56,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 76,
+        "MoveID": 56,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 88,
+        "MoveID": 56,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 89,
+        "MoveID": 56,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 95,
+        "MoveID": 56,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 98,
+        "MoveID": 56,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 99,
+        "MoveID": 56,
+        "Requirement": "Lv. 49"
+    },
+    {
+        "PokemonSpeciesID": 120,
+        "MoveID": 56,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 121,
+        "MoveID": 56,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 127,
+        "MoveID": 56,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 140,
+        "MoveID": 56,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 141,
+        "MoveID": 56,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 143,
+        "MoveID": 56,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 41,
+        "MoveID": 57,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 42,
+        "MoveID": 57,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 109,
+        "MoveID": 57,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 110,
+        "MoveID": 57,
+        "Requirement": "Lv. 49"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 57,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 79,
+        "MoveID": 58,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 58,
+        "Requirement": "Lv.  22"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 58,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 86,
+        "MoveID": 58,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 87,
+        "MoveID": 58,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 96,
+        "MoveID": 58,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 58,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 143,
+        "MoveID": 58,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 106,
+        "MoveID": 59,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 32,
+        "MoveID": 60,
+        "Requirement": "Lv. 8"
+    },
+    {
+        "PokemonSpeciesID": 33,
+        "MoveID": 60,
+        "Requirement": "Lv.  8"
+    },
+    {
+        "PokemonSpeciesID": 33,
+        "MoveID": 60,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 34,
+        "MoveID": 60,
+        "Requirement": "Lv.  8"
+    },
+    {
+        "PokemonSpeciesID": 34,
+        "MoveID": 60,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 111,
+        "MoveID": 60,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 112,
+        "MoveID": 60,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 118,
+        "MoveID": 60,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 119,
+        "MoveID": 60,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 138,
+        "MoveID": 60,
+        "Requirement": "Lv. 34"
+    },
+    {
+        "PokemonSpeciesID": 139,
+        "MoveID": 60,
+        "Requirement": "Lv.  34"
+    },
+    {
+        "PokemonSpeciesID": 139,
+        "MoveID": 60,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 32,
+        "MoveID": 61,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 33,
+        "MoveID": 61,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 111,
+        "MoveID": 61,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 112,
+        "MoveID": 61,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 118,
+        "MoveID": 61,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 119,
+        "MoveID": 61,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 7,
+        "MoveID": 62,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 8,
+        "MoveID": 62,
+        "Requirement": "Lv. 47"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 62,
+        "Requirement": "Lv. 52"
+    },
+    {
+        "PokemonSpeciesID": 54,
+        "MoveID": 62,
+        "Requirement": "Lv. 52"
+    },
+    {
+        "PokemonSpeciesID": 55,
+        "MoveID": 62,
+        "Requirement": "Lv. 59"
+    },
+    {
+        "PokemonSpeciesID": 60,
+        "MoveID": 62,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 61,
+        "MoveID": 62,
+        "Requirement": "Lv. 49"
+    },
+    {
+        "PokemonSpeciesID": 72,
+        "MoveID": 62,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 62,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 116,
+        "MoveID": 62,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 117,
+        "MoveID": 62,
+        "Requirement": "Lv. 52"
+    },
+    {
+        "PokemonSpeciesID": 120,
+        "MoveID": 62,
+        "Requirement": "Lv. 47"
+    },
+    {
+        "PokemonSpeciesID": 130,
+        "MoveID": 62,
+        "Requirement": "Lv.  41"
+    },
+    {
+        "PokemonSpeciesID": 130,
+        "MoveID": 62,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 131,
+        "MoveID": 62,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 62,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 138,
+        "MoveID": 62,
+        "Requirement": "Lv. 53"
+    },
+    {
+        "PokemonSpeciesID": 139,
+        "MoveID": 62,
+        "Requirement": "Lv. 49"
+    },
+    {
+        "PokemonSpeciesID": 140,
+        "MoveID": 62,
+        "Requirement": "Lv. 49"
+    },
+    {
+        "PokemonSpeciesID": 141,
+        "MoveID": 62,
+        "Requirement": "Lv. 53"
+    },
+    {
+        "PokemonSpeciesID": 130,
+        "MoveID": 63,
+        "Requirement": "Lv. 52"
+    },
+    {
+        "PokemonSpeciesID": 142,
+        "MoveID": 63,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 143,
+        "MoveID": 63,
+        "Requirement": "Lv. 56"
+    },
+    {
+        "PokemonSpeciesID": 147,
+        "MoveID": 63,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 148,
+        "MoveID": 63,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 149,
+        "MoveID": 63,
+        "Requirement": "Lv. 60"
+    },
+    {
+        "PokemonSpeciesID": 19,
+        "MoveID": 64,
+        "Requirement": "Lv. 14"
+    },
+    {
+        "PokemonSpeciesID": 20,
+        "MoveID": 64,
+        "Requirement": "Lv. 14"
+    },
+    {
+        "PokemonSpeciesID": 60,
+        "MoveID": 65,
+        "Requirement": "Lv. 16"
+    },
+    {
+        "PokemonSpeciesID": 61,
+        "MoveID": 65,
+        "Requirement": "Lv.  16"
+    },
+    {
+        "PokemonSpeciesID": 61,
+        "MoveID": 65,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 62,
+        "MoveID": 65,
+        "Requirement": "Lv.  16"
+    },
+    {
+        "PokemonSpeciesID": 62,
+        "MoveID": 65,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 92,
+        "MoveID": 65,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 93,
+        "MoveID": 65,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 94,
+        "MoveID": 65,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 96,
+        "MoveID": 65,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 65,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 102,
+        "MoveID": 65,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 103,
+        "MoveID": 65,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 86,
+        "MoveID": 66,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 87,
+        "MoveID": 66,
+        "Requirement": "Lv. 56"
+    },
+    {
+        "PokemonSpeciesID": 90,
+        "MoveID": 66,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 131,
+        "MoveID": 66,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 144,
+        "MoveID": 66,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 107,
+        "MoveID": 67,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 124,
+        "MoveID": 67,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 106,
+        "MoveID": 68,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 56,
+        "MoveID": 69,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 57,
+        "MoveID": 69,
+        "Requirement": "Lv.  15"
+    },
+    {
+        "PokemonSpeciesID": 57,
+        "MoveID": 69,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 66,
+        "MoveID": 69,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 67,
+        "MoveID": 69,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 68,
+        "MoveID": 69,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 41,
+        "MoveID": 71,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 42,
+        "MoveID": 71,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 46,
+        "MoveID": 71,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 47,
+        "MoveID": 71,
+        "Requirement": "Lv.  20"
+    },
+    {
+        "PokemonSpeciesID": 47,
+        "MoveID": 71,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 48,
+        "MoveID": 71,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 71,
+        "Requirement": "Lv.  27"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 71,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 1,
+        "MoveID": 72,
+        "Requirement": "Lv. 7"
+    },
+    {
+        "PokemonSpeciesID": 2,
+        "MoveID": 72,
+        "Requirement": "Lv.  7"
+    },
+    {
+        "PokemonSpeciesID": 2,
+        "MoveID": 72,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 72,
+        "Requirement": "Lv.  7"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 72,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 102,
+        "MoveID": 72,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 4,
+        "MoveID": 73,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 5,
+        "MoveID": 73,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 73,
+        "Requirement": "Lv.  15"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 73,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 21,
+        "MoveID": 73,
+        "Requirement": "Lv. 9"
+    },
+    {
+        "PokemonSpeciesID": 22,
+        "MoveID": 73,
+        "Requirement": "Lv.  9"
+    },
+    {
+        "PokemonSpeciesID": 22,
+        "MoveID": 73,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 23,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 24,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 32,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 33,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 56,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 57,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 58,
+        "MoveID": 73,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 59,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 66,
+        "MoveID": 73,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 67,
+        "MoveID": 73,
+        "Requirement": "Lv.  25"
+    },
+    {
+        "PokemonSpeciesID": 67,
+        "MoveID": 73,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 68,
+        "MoveID": 73,
+        "Requirement": "Lv.  25"
+    },
+    {
+        "PokemonSpeciesID": 68,
+        "MoveID": 73,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 83,
+        "MoveID": 73,
+        "Requirement": "Lv. 7"
+    },
+    {
+        "PokemonSpeciesID": 90,
+        "MoveID": 73,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 98,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 99,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 104,
+        "MoveID": 73,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 105,
+        "MoveID": 73,
+        "Requirement": "Lv.  25"
+    },
+    {
+        "PokemonSpeciesID": 105,
+        "MoveID": 73,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 111,
+        "MoveID": 73,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 112,
+        "MoveID": 73,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 115,
+        "MoveID": 73,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 116,
+        "MoveID": 73,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 117,
+        "MoveID": 73,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 123,
+        "MoveID": 73,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 125,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 126,
+        "MoveID": 73,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 128,
+        "MoveID": 73,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 130,
+        "MoveID": 73,
+        "Requirement": "Lv.  32"
+    },
+    {
+        "PokemonSpeciesID": 130,
+        "MoveID": 73,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 73,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 138,
+        "MoveID": 73,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 139,
+        "MoveID": 73,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 140,
+        "MoveID": 73,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 141,
+        "MoveID": 73,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 146,
+        "MoveID": 73,
+        "Requirement": "Lv. 51"
+    },
+    {
+        "PokemonSpeciesID": 147,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 148,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 149,
+        "MoveID": 73,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 92,
+        "MoveID": 74,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 93,
+        "MoveID": 74,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 94,
+        "MoveID": 74,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 124,
+        "MoveID": 74,
+        "Requirement": "Lv. 18"
+    },
+    {
+        "PokemonSpeciesID": 35,
+        "MoveID": 75,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 100,
+        "MoveID": 75,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 101,
+        "MoveID": 75,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 113,
+        "MoveID": 75,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 120,
+        "MoveID": 75,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 122,
+        "MoveID": 75,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 125,
+        "MoveID": 75,
+        "Requirement": "Lv. 49"
+    },
+    {
+        "PokemonSpeciesID": 145,
+        "MoveID": 75,
+        "Requirement": "Lv. 60"
+    },
+    {
+        "PokemonSpeciesID": 124,
+        "MoveID": 76,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 66,
+        "MoveID": 77,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 67,
+        "MoveID": 77,
+        "Requirement": "Lv.  20"
+    },
+    {
+        "PokemonSpeciesID": 67,
+        "MoveID": 77,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 68,
+        "MoveID": 77,
+        "Requirement": "Lv.  20"
+    },
+    {
+        "PokemonSpeciesID": 68,
+        "MoveID": 77,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 96,
+        "MoveID": 78,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 78,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 106,
+        "MoveID": 78,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 122,
+        "MoveID": 78,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 106,
+        "MoveID": 80,
+        "Requirement": "Lv. 53"
+    },
+    {
+        "PokemonSpeciesID": 107,
+        "MoveID": 81,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 115,
+        "MoveID": 81,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 151,
+        "MoveID": 81,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 35,
+        "MoveID": 82,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 36,
+        "MoveID": 82,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 151,
+        "MoveID": 82,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 35,
+        "MoveID": 84,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 36,
+        "MoveID": 84,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 88,
+        "MoveID": 84,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 89,
+        "MoveID": 84,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 113,
+        "MoveID": 84,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 120,
+        "MoveID": 84,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 16,
+        "MoveID": 85,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 17,
+        "MoveID": 85,
+        "Requirement": "Lv. 49"
+    },
+    {
+        "PokemonSpeciesID": 18,
+        "MoveID": 85,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 21,
+        "MoveID": 85,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 22,
+        "MoveID": 85,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 131,
+        "MoveID": 86,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 86,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 144,
+        "MoveID": 86,
+        "Requirement": "Lv. 60"
+    },
+    {
+        "PokemonSpeciesID": 150,
+        "MoveID": 86,
+        "Requirement": "Lv. 75"
+    },
+    {
+        "PokemonSpeciesID": 92,
+        "MoveID": 87,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 93,
+        "MoveID": 87,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 94,
+        "MoveID": 87,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 52,
+        "MoveID": 88,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 53,
+        "MoveID": 88,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 21,
+        "MoveID": 89,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 22,
+        "MoveID": 89,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 83,
+        "MoveID": 89,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 84,
+        "MoveID": 89,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 85,
+        "MoveID": 89,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 118,
+        "MoveID": 89,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 119,
+        "MoveID": 89,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 144,
+        "MoveID": 89,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 146,
+        "MoveID": 89,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 43,
+        "MoveID": 90,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 44,
+        "MoveID": 90,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 45,
+        "MoveID": 90,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 15,
+        "MoveID": 91,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 91,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 88,
+        "MoveID": 92,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 89,
+        "MoveID": 92,
+        "Requirement": "Lv.  30"
+    },
+    {
+        "PokemonSpeciesID": 89,
+        "MoveID": 92,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 96,
+        "MoveID": 92,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 92,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 1,
+        "MoveID": 93,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 2,
+        "MoveID": 93,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 93,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 12,
+        "MoveID": 93,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 43,
+        "MoveID": 93,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 44,
+        "MoveID": 93,
+        "Requirement": "Lv.  15"
+    },
+    {
+        "PokemonSpeciesID": 44,
+        "MoveID": 93,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 45,
+        "MoveID": 93,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 48,
+        "MoveID": 93,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 93,
+        "Requirement": "Lv.  24"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 93,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 69,
+        "MoveID": 93,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 70,
+        "MoveID": 93,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 71,
+        "MoveID": 93,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 102,
+        "MoveID": 93,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 114,
+        "MoveID": 93,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 13,
+        "MoveID": 94,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 23,
+        "MoveID": 94,
+        "Requirement": "Lv. 10"
+    },
+    {
+        "PokemonSpeciesID": 24,
+        "MoveID": 94,
+        "Requirement": "Lv.  10"
+    },
+    {
+        "PokemonSpeciesID": 24,
+        "MoveID": 94,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 27,
+        "MoveID": 94,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 28,
+        "MoveID": 94,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 29,
+        "MoveID": 94,
+        "Requirement": "Lv. 14"
+    },
+    {
+        "PokemonSpeciesID": 30,
+        "MoveID": 94,
+        "Requirement": "Lv. 14"
+    },
+    {
+        "PokemonSpeciesID": 31,
+        "MoveID": 94,
+        "Requirement": "Lv. 14"
+    },
+    {
+        "PokemonSpeciesID": 32,
+        "MoveID": 94,
+        "Requirement": "Lv. 14"
+    },
+    {
+        "PokemonSpeciesID": 33,
+        "MoveID": 94,
+        "Requirement": "Lv. 14"
+    },
+    {
+        "PokemonSpeciesID": 34,
+        "MoveID": 94,
+        "Requirement": "Lv.  14"
+    },
+    {
+        "PokemonSpeciesID": 34,
+        "MoveID": 94,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 72,
+        "MoveID": 94,
+        "Requirement": "Lv. 18"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 94,
+        "Requirement": "Lv. 18"
+    },
+    {
+        "PokemonSpeciesID": 35,
+        "MoveID": 95,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 39,
+        "MoveID": 95,
+        "Requirement": "Lv. 9"
+    },
+    {
+        "PokemonSpeciesID": 88,
+        "MoveID": 95,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 89,
+        "MoveID": 95,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 96,
+        "MoveID": 95,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 95,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 113,
+        "MoveID": 95,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 124,
+        "MoveID": 95,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 151,
+        "MoveID": 95,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 12,
+        "MoveID": 96,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 48,
+        "MoveID": 96,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 96,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 64,
+        "MoveID": 96,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 65,
+        "MoveID": 96,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 137,
+        "MoveID": 96,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 48,
+        "MoveID": 97,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 97,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 64,
+        "MoveID": 97,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 65,
+        "MoveID": 97,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 79,
+        "MoveID": 97,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 97,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 96,
+        "MoveID": 97,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 97,
+        "MoveID": 97,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 150,
+        "MoveID": 97,
+        "Requirement": "Lv.  66"
+    },
+    {
+        "PokemonSpeciesID": 150,
+        "MoveID": 97,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 151,
+        "MoveID": 97,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 16,
+        "MoveID": 99,
+        "Requirement": "Lv. 12"
+    },
+    {
+        "PokemonSpeciesID": 17,
+        "MoveID": 99,
+        "Requirement": "Lv. 12"
+    },
+    {
+        "PokemonSpeciesID": 18,
+        "MoveID": 99,
+        "Requirement": "Lv.  12"
+    },
+    {
+        "PokemonSpeciesID": 18,
+        "MoveID": 99,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 19,
+        "MoveID": 99,
+        "Requirement": "Lv. 7"
+    },
+    {
+        "PokemonSpeciesID": 20,
+        "MoveID": 99,
+        "Requirement": "Lv.  7"
+    },
+    {
+        "PokemonSpeciesID": 20,
+        "MoveID": 99,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 25,
+        "MoveID": 99,
+        "Requirement": "Lv. 16"
+    },
+    {
+        "PokemonSpeciesID": 37,
+        "MoveID": 99,
+        "Requirement": "Lv. 16"
+    },
+    {
+        "PokemonSpeciesID": 38,
+        "MoveID": 99,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 123,
+        "MoveID": 99,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 125,
+        "MoveID": 99,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 133,
+        "MoveID": 99,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 99,
+        "Requirement": "Lv.  27"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 99,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 99,
+        "Requirement": "Lv.  27"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 99,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 99,
+        "Requirement": "Lv.  27"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 99,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 4,
+        "MoveID": 100,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 5,
+        "MoveID": 100,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 100,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 15,
+        "MoveID": 100,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 84,
+        "MoveID": 100,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 85,
+        "MoveID": 100,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 95,
+        "MoveID": 100,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 104,
+        "MoveID": 100,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 105,
+        "MoveID": 100,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 115,
+        "MoveID": 100,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 128,
+        "MoveID": 100,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 100,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 1,
+        "MoveID": 101,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 2,
+        "MoveID": 101,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 101,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 69,
+        "MoveID": 101,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 70,
+        "MoveID": 101,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 71,
+        "MoveID": 101,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 64,
+        "MoveID": 103,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 65,
+        "MoveID": 103,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 120,
+        "MoveID": 103,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 137,
+        "MoveID": 103,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 150,
+        "MoveID": 103,
+        "Requirement": "Lv. 70"
+    },
+    {
+        "PokemonSpeciesID": 64,
+        "MoveID": 104,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 65,
+        "MoveID": 104,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 102,
+        "MoveID": 104,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 39,
+        "MoveID": 105,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 86,
+        "MoveID": 105,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 87,
+        "MoveID": 105,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 143,
+        "MoveID": 105,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 37,
+        "MoveID": 106,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 38,
+        "MoveID": 106,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 58,
+        "MoveID": 106,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 59,
+        "MoveID": 106,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 74,
+        "MoveID": 108,
+        "Requirement": "Lv. 16"
+    },
+    {
+        "PokemonSpeciesID": 75,
+        "MoveID": 108,
+        "Requirement": "Lv. 16"
+    },
+    {
+        "PokemonSpeciesID": 76,
+        "MoveID": 108,
+        "Requirement": "Lv. 16"
+    },
+    {
+        "PokemonSpeciesID": 95,
+        "MoveID": 108,
+        "Requirement": "Lv. 19"
+    },
+    {
+        "PokemonSpeciesID": 106,
+        "MoveID": 109,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 4,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 5,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 27,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 28,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 29,
+        "MoveID": 110,
+        "Requirement": "Lv. 8"
+    },
+    {
+        "PokemonSpeciesID": 30,
+        "MoveID": 110,
+        "Requirement": "Lv. 8"
+    },
+    {
+        "PokemonSpeciesID": 31,
+        "MoveID": 110,
+        "Requirement": "Lv.  8"
+    },
+    {
+        "PokemonSpeciesID": 31,
+        "MoveID": 110,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 46,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 47,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 50,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 51,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 52,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 53,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 54,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 55,
+        "MoveID": 110,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 55,
+        "MoveID": 110,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 56,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 57,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 140,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 141,
+        "MoveID": 110,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 23,
+        "MoveID": 111,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 24,
+        "MoveID": 111,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 42,
+        "MoveID": 111,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 52,
+        "MoveID": 111,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 53,
+        "MoveID": 111,
+        "Requirement": "Lv.  24"
+    },
+    {
+        "PokemonSpeciesID": 53,
+        "MoveID": 111,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 72,
+        "MoveID": 111,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 111,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 81,
+        "MoveID": 111,
+        "Requirement": "Lv. 47"
+    },
+    {
+        "PokemonSpeciesID": 82,
+        "MoveID": 111,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 88,
+        "MoveID": 111,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 89,
+        "MoveID": 111,
+        "Requirement": "Lv. 53"
+    },
+    {
+        "PokemonSpeciesID": 95,
+        "MoveID": 111,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 100,
+        "MoveID": 111,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 101,
+        "MoveID": 111,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 108,
+        "MoveID": 111,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 125,
+        "MoveID": 111,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 56,
+        "MoveID": 112,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 57,
+        "MoveID": 112,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 66,
+        "MoveID": 112,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 67,
+        "MoveID": 112,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 68,
+        "MoveID": 112,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 127,
+        "MoveID": 112,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 74,
+        "MoveID": 113,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 75,
+        "MoveID": 113,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 76,
+        "MoveID": 113,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 100,
+        "MoveID": 113,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 101,
+        "MoveID": 113,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 109,
+        "MoveID": 113,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 110,
+        "MoveID": 113,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 137,
+        "MoveID": 114,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 35,
+        "MoveID": 115,
+        "Requirement": "Lv. 13"
+    },
+    {
+        "PokemonSpeciesID": 36,
+        "MoveID": 115,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 39,
+        "MoveID": 115,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 40,
+        "MoveID": 115,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 113,
+        "MoveID": 115,
+        "Requirement": "Lv. 24"
+    },
+    {
+        "PokemonSpeciesID": 131,
+        "MoveID": 115,
+        "Requirement": "Lv. 16"
+    },
+    {
+        "PokemonSpeciesID": 7,
+        "MoveID": 116,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 8,
+        "MoveID": 116,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 116,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 146,
+        "MoveID": 117,
+        "Requirement": "Lv. 60"
+    },
+    {
+        "PokemonSpeciesID": 69,
+        "MoveID": 118,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 70,
+        "MoveID": 118,
+        "Requirement": "Lv. 49"
+    },
+    {
+        "PokemonSpeciesID": 95,
+        "MoveID": 118,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 108,
+        "MoveID": 118,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 114,
+        "MoveID": 118,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 147,
+        "MoveID": 118,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 148,
+        "MoveID": 118,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 149,
+        "MoveID": 118,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 4,
+        "MoveID": 119,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 5,
+        "MoveID": 119,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 6,
+        "MoveID": 119,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 27,
+        "MoveID": 119,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 28,
+        "MoveID": 119,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 46,
+        "MoveID": 119,
+        "Requirement": "Lv. 34"
+    },
+    {
+        "PokemonSpeciesID": 47,
+        "MoveID": 119,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 50,
+        "MoveID": 119,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 51,
+        "MoveID": 119,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 52,
+        "MoveID": 119,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 53,
+        "MoveID": 119,
+        "Requirement": "Lv. 51"
+    },
+    {
+        "PokemonSpeciesID": 83,
+        "MoveID": 119,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 123,
+        "MoveID": 119,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 127,
+        "MoveID": 119,
+        "Requirement": "Lv. 49"
+    },
+    {
+        "PokemonSpeciesID": 140,
+        "MoveID": 119,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 141,
+        "MoveID": 119,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 1,
+        "MoveID": 120,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 2,
+        "MoveID": 120,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 120,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 12,
+        "MoveID": 120,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 43,
+        "MoveID": 120,
+        "Requirement": "Lv. 19"
+    },
+    {
+        "PokemonSpeciesID": 44,
+        "MoveID": 120,
+        "Requirement": "Lv. 19"
+    },
+    {
+        "PokemonSpeciesID": 45,
+        "MoveID": 120,
+        "Requirement": "Lv.  19"
+    },
+    {
+        "PokemonSpeciesID": 45,
+        "MoveID": 120,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 48,
+        "MoveID": 120,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 120,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 69,
+        "MoveID": 120,
+        "Requirement": "Lv. 18"
+    },
+    {
+        "PokemonSpeciesID": 70,
+        "MoveID": 120,
+        "Requirement": "Lv. 18"
+    },
+    {
+        "PokemonSpeciesID": 71,
+        "MoveID": 120,
+        "Requirement": "Lv.  18"
+    },
+    {
+        "PokemonSpeciesID": 71,
+        "MoveID": 120,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 102,
+        "MoveID": 120,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 114,
+        "MoveID": 120,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 88,
+        "MoveID": 121,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 89,
+        "MoveID": 121,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 109,
+        "MoveID": 121,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 110,
+        "MoveID": 121,
+        "Requirement": "Lv.  32"
+    },
+    {
+        "PokemonSpeciesID": 110,
+        "MoveID": 121,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 109,
+        "MoveID": 122,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 110,
+        "MoveID": 122,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 126,
+        "MoveID": 122,
+        "Requirement": "Lv. 52"
+    },
+    {
+        "PokemonSpeciesID": 109,
+        "MoveID": 123,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 110,
+        "MoveID": 123,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 116,
+        "MoveID": 123,
+        "Requirement": "Lv. 19"
+    },
+    {
+        "PokemonSpeciesID": 117,
+        "MoveID": 123,
+        "Requirement": "Lv.  19"
+    },
+    {
+        "PokemonSpeciesID": 117,
+        "MoveID": 123,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 126,
+        "MoveID": 123,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 1,
+        "MoveID": 125,
+        "Requirement": "Lv. 48"
+    },
+    {
+        "PokemonSpeciesID": 2,
+        "MoveID": 125,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 125,
+        "Requirement": "Lv. 65"
+    },
+    {
+        "PokemonSpeciesID": 43,
+        "MoveID": 125,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 44,
+        "MoveID": 125,
+        "Requirement": "Lv. 52"
+    },
+    {
+        "PokemonSpeciesID": 102,
+        "MoveID": 125,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 81,
+        "MoveID": 126,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 82,
+        "MoveID": 126,
+        "Requirement": "Lv.  21"
+    },
+    {
+        "PokemonSpeciesID": 82,
+        "MoveID": 126,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 100,
+        "MoveID": 126,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 101,
+        "MoveID": 126,
+        "Requirement": "Lv.  17"
+    },
+    {
+        "PokemonSpeciesID": 101,
+        "MoveID": 126,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 91,
+        "MoveID": 127,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 138,
+        "MoveID": 127,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 139,
+        "MoveID": 127,
+        "Requirement": "Lv. 44"
+    },
+    {
+        "PokemonSpeciesID": 129,
+        "MoveID": 128,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 46,
+        "MoveID": 129,
+        "Requirement": "Lv. 27"
+    },
+    {
+        "PokemonSpeciesID": 47,
+        "MoveID": 129,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 77,
+        "MoveID": 130,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 130,
+        "Requirement": "Lv.  32"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 130,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 98,
+        "MoveID": 130,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 99,
+        "MoveID": 130,
+        "Requirement": "Lv. 34"
+    },
+    {
+        "PokemonSpeciesID": 103,
+        "MoveID": 130,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 108,
+        "MoveID": 130,
+        "Requirement": "Lv. 7"
+    },
+    {
+        "PokemonSpeciesID": 111,
+        "MoveID": 130,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 112,
+        "MoveID": 130,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 128,
+        "MoveID": 130,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 10,
+        "MoveID": 132,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 13,
+        "MoveID": 132,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 12,
+        "MoveID": 134,
+        "Requirement": "Lv. 16"
+    },
+    {
+        "PokemonSpeciesID": 43,
+        "MoveID": 134,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 44,
+        "MoveID": 134,
+        "Requirement": "Lv.  17"
+    },
+    {
+        "PokemonSpeciesID": 44,
+        "MoveID": 134,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 45,
+        "MoveID": 134,
+        "Requirement": "Lv.  17"
+    },
+    {
+        "PokemonSpeciesID": 45,
+        "MoveID": 134,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 46,
+        "MoveID": 134,
+        "Requirement": "Lv. 13"
+    },
+    {
+        "PokemonSpeciesID": 47,
+        "MoveID": 134,
+        "Requirement": "Lv.  13"
+    },
+    {
+        "PokemonSpeciesID": 47,
+        "MoveID": 134,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 48,
+        "MoveID": 134,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 134,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 69,
+        "MoveID": 134,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 70,
+        "MoveID": 134,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 71,
+        "MoveID": 134,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 102,
+        "MoveID": 134,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 114,
+        "MoveID": 134,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 66,
+        "MoveID": 135,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 67,
+        "MoveID": 135,
+        "Requirement": "Lv. 52"
+    },
+    {
+        "PokemonSpeciesID": 68,
+        "MoveID": 135,
+        "Requirement": "Lv. 52"
+    },
+    {
+        "PokemonSpeciesID": 19,
+        "MoveID": 137,
+        "Requirement": "Lv. 34"
+    },
+    {
+        "PokemonSpeciesID": 20,
+        "MoveID": 137,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 12,
+        "MoveID": 138,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 41,
+        "MoveID": 138,
+        "Requirement": "Lv. 10"
+    },
+    {
+        "PokemonSpeciesID": 42,
+        "MoveID": 138,
+        "Requirement": "Lv. 10"
+    },
+    {
+        "PokemonSpeciesID": 72,
+        "MoveID": 138,
+        "Requirement": "Lv. 7"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 138,
+        "Requirement": "Lv.  7"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 138,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 81,
+        "MoveID": 138,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 82,
+        "MoveID": 138,
+        "Requirement": "Lv. 29"
+    },
+    {
+        "PokemonSpeciesID": 90,
+        "MoveID": 138,
+        "Requirement": "Lv. 18"
+    },
+    {
+        "PokemonSpeciesID": 91,
+        "MoveID": 138,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 108,
+        "MoveID": 138,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 118,
+        "MoveID": 138,
+        "Requirement": "Lv. 19"
+    },
+    {
+        "PokemonSpeciesID": 119,
+        "MoveID": 138,
+        "Requirement": "Lv.  19"
+    },
+    {
+        "PokemonSpeciesID": 119,
+        "MoveID": 138,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 142,
+        "MoveID": 138,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 25,
+        "MoveID": 140,
+        "Requirement": "Lv. 26"
+    },
+    {
+        "PokemonSpeciesID": 27,
+        "MoveID": 140,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 28,
+        "MoveID": 140,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 81,
+        "MoveID": 140,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 82,
+        "MoveID": 140,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 100,
+        "MoveID": 140,
+        "Requirement": "Lv. 36"
+    },
+    {
+        "PokemonSpeciesID": 101,
+        "MoveID": 140,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 120,
+        "MoveID": 140,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 150,
+        "MoveID": 140,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 83,
+        "MoveID": 141,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 123,
+        "MoveID": 141,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 127,
+        "MoveID": 141,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 1,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 2,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 7,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 8,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 10,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 19,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 20,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 29,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 30,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 31,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 32,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 33,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 34,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 48,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 49,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 74,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 75,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 76,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 81,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 82,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 90,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 95,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 100,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 101,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 109,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 110,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 120,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 121,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 128,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 129,
+        "MoveID": 142,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 133,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 137,
+        "MoveID": 142,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 7,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 8,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 19,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 20,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 29,
+        "MoveID": 143,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 30,
+        "MoveID": 143,
+        "Requirement": "Lv. 23"
+    },
+    {
+        "PokemonSpeciesID": 31,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 37,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 38,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 54,
+        "MoveID": 143,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 55,
+        "MoveID": 143,
+        "Requirement": "Lv.  28"
+    },
+    {
+        "PokemonSpeciesID": 55,
+        "MoveID": 143,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 77,
+        "MoveID": 143,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 143,
+        "Requirement": "Lv.  30"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 143,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 111,
+        "MoveID": 143,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 112,
+        "MoveID": 143,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 115,
+        "MoveID": 143,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 118,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 119,
+        "MoveID": 143,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 128,
+        "MoveID": 143,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 133,
+        "MoveID": 143,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 143,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 143,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 136,
+        "MoveID": 143,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 58,
+        "MoveID": 144,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 59,
+        "MoveID": 144,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 77,
+        "MoveID": 144,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 78,
+        "MoveID": 144,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 86,
+        "MoveID": 144,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 87,
+        "MoveID": 144,
+        "Requirement": "Lv. 50"
+    },
+    {
+        "PokemonSpeciesID": 111,
+        "MoveID": 144,
+        "Requirement": "Lv. 55"
+    },
+    {
+        "PokemonSpeciesID": 112,
+        "MoveID": 144,
+        "Requirement": "Lv. 64"
+    },
+    {
+        "PokemonSpeciesID": 128,
+        "MoveID": 144,
+        "Requirement": "Lv. 51"
+    },
+    {
+        "PokemonSpeciesID": 133,
+        "MoveID": 144,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 142,
+        "MoveID": 144,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 63,
+        "MoveID": 145,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 64,
+        "MoveID": 145,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 65,
+        "MoveID": 145,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 34,
+        "MoveID": 146,
+        "Requirement": "Lv.  23"
+    },
+    {
+        "PokemonSpeciesID": 34,
+        "MoveID": 146,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 56,
+        "MoveID": 146,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 57,
+        "MoveID": 146,
+        "Requirement": "Lv. 46"
+    },
+    {
+        "PokemonSpeciesID": 104,
+        "MoveID": 146,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 105,
+        "MoveID": 146,
+        "Requirement": "Lv. 41"
+    },
+    {
+        "PokemonSpeciesID": 124,
+        "MoveID": 146,
+        "Requirement": "Lv. 47"
+    },
+    {
+        "PokemonSpeciesID": 25,
+        "MoveID": 147,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 125,
+        "MoveID": 147,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 147,
+        "Requirement": "Lv. 54"
+    },
+    {
+        "PokemonSpeciesID": 145,
+        "MoveID": 147,
+        "Requirement": "Lv. 51"
+    },
+    {
+        "PokemonSpeciesID": 107,
+        "MoveID": 148,
+        "Requirement": "Lv. 43"
+    },
+    {
+        "PokemonSpeciesID": 125,
+        "MoveID": 148,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 25,
+        "MoveID": 149,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 26,
+        "MoveID": 149,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 81,
+        "MoveID": 149,
+        "Requirement": "Lv. 25"
+    },
+    {
+        "PokemonSpeciesID": 82,
+        "MoveID": 149,
+        "Requirement": "Lv.  25"
+    },
+    {
+        "PokemonSpeciesID": 82,
+        "MoveID": 149,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 125,
+        "MoveID": 149,
+        "Requirement": "Lv. 34"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 149,
+        "Requirement": "Lv.  31"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 149,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 145,
+        "MoveID": 149,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 25,
+        "MoveID": 150,
+        "Requirement": "Lv. 9"
+    },
+    {
+        "PokemonSpeciesID": 26,
+        "MoveID": 150,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 81,
+        "MoveID": 150,
+        "Requirement": "Lv. 35"
+    },
+    {
+        "PokemonSpeciesID": 82,
+        "MoveID": 150,
+        "Requirement": "Lv. 38"
+    },
+    {
+        "PokemonSpeciesID": 135,
+        "MoveID": 150,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 147,
+        "MoveID": 150,
+        "Requirement": "Lv. 10"
+    },
+    {
+        "PokemonSpeciesID": 148,
+        "MoveID": 150,
+        "Requirement": "Lv.  10"
+    },
+    {
+        "PokemonSpeciesID": 148,
+        "MoveID": 150,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 149,
+        "MoveID": 150,
+        "Requirement": "Lv.  10"
+    },
+    {
+        "PokemonSpeciesID": 149,
+        "MoveID": 150,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 132,
+        "MoveID": 153,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 151,
+        "MoveID": 153,
+        "Requirement": "Lv. 10"
+    },
+    {
+        "PokemonSpeciesID": 84,
+        "MoveID": 154,
+        "Requirement": "Lv. 40"
+    },
+    {
+        "PokemonSpeciesID": 85,
+        "MoveID": 154,
+        "Requirement": "Lv. 45"
+    },
+    {
+        "PokemonSpeciesID": 137,
+        "MoveID": 154,
+        "Requirement": "Lv. 42"
+    },
+    {
+        "PokemonSpeciesID": 15,
+        "MoveID": 155,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 1,
+        "MoveID": 156,
+        "Requirement": "Lv. 13"
+    },
+    {
+        "PokemonSpeciesID": 2,
+        "MoveID": 156,
+        "Requirement": "Lv. 13"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 156,
+        "Requirement": "Lv.  13"
+    },
+    {
+        "PokemonSpeciesID": 3,
+        "MoveID": 156,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 69,
+        "MoveID": 156,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 70,
+        "MoveID": 156,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 98,
+        "MoveID": 157,
+        "Requirement": "Lv. 20"
+    },
+    {
+        "PokemonSpeciesID": 99,
+        "MoveID": 157,
+        "Requirement": "Lv.  20"
+    },
+    {
+        "PokemonSpeciesID": 99,
+        "MoveID": 157,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 127,
+        "MoveID": 157,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 7,
+        "MoveID": 158,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 8,
+        "MoveID": 158,
+        "Requirement": "Lv. 15"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 158,
+        "Requirement": "Lv.  15"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 158,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 60,
+        "MoveID": 158,
+        "Requirement": "Lv. 19"
+    },
+    {
+        "PokemonSpeciesID": 61,
+        "MoveID": 158,
+        "Requirement": "Lv.  19"
+    },
+    {
+        "PokemonSpeciesID": 61,
+        "MoveID": 158,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 62,
+        "MoveID": 158,
+        "Requirement": "Lv.  19"
+    },
+    {
+        "PokemonSpeciesID": 62,
+        "MoveID": 158,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 72,
+        "MoveID": 158,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 158,
+        "Requirement": "Lv. 22"
+    },
+    {
+        "PokemonSpeciesID": 79,
+        "MoveID": 158,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 158,
+        "Requirement": "Lv. 33"
+    },
+    {
+        "PokemonSpeciesID": 116,
+        "MoveID": 158,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 117,
+        "MoveID": 158,
+        "Requirement": "Lv. 30"
+    },
+    {
+        "PokemonSpeciesID": 120,
+        "MoveID": 158,
+        "Requirement": "Lv. 17"
+    },
+    {
+        "PokemonSpeciesID": 121,
+        "MoveID": 158,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 131,
+        "MoveID": 158,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 158,
+        "Requirement": "Lv.  31"
+    },
+    {
+        "PokemonSpeciesID": 134,
+        "MoveID": 158,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 138,
+        "MoveID": 158,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 139,
+        "MoveID": 158,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 118,
+        "MoveID": 159,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 119,
+        "MoveID": 159,
+        "Requirement": "Lv. 39"
+    },
+    {
+        "PokemonSpeciesID": 12,
+        "MoveID": 160,
+        "Requirement": "Lv. 26"
+    },
+    {
+        "PokemonSpeciesID": 16,
+        "MoveID": 160,
+        "Requirement": "Lv. 19"
+    },
+    {
+        "PokemonSpeciesID": 17,
+        "MoveID": 160,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 18,
+        "MoveID": 160,
+        "Requirement": "Lv. 21"
+    },
+    {
+        "PokemonSpeciesID": 16,
+        "MoveID": 161,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 17,
+        "MoveID": 161,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 18,
+        "MoveID": 161,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 41,
+        "MoveID": 161,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 42,
+        "MoveID": 161,
+        "Requirement": "Lv. 32"
+    },
+    {
+        "PokemonSpeciesID": 142,
+        "MoveID": 161,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 7,
+        "MoveID": 162,
+        "Requirement": "Lv. 28"
+    },
+    {
+        "PokemonSpeciesID": 8,
+        "MoveID": 162,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 9,
+        "MoveID": 162,
+        "Requirement": "Lv. 31"
+    },
+    {
+        "PokemonSpeciesID": 80,
+        "MoveID": 162,
+        "Requirement": "Lv. 37"
+    },
+    {
+        "PokemonSpeciesID": 90,
+        "MoveID": 162,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 91,
+        "MoveID": 162,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 138,
+        "MoveID": 162,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 139,
+        "MoveID": 162,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 23,
+        "MoveID": 163,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 24,
+        "MoveID": 163,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 69,
+        "MoveID": 163,
+        "Requirement": "Lv. 13"
+    },
+    {
+        "PokemonSpeciesID": 70,
+        "MoveID": 163,
+        "Requirement": "Lv.  13"
+    },
+    {
+        "PokemonSpeciesID": 70,
+        "MoveID": 163,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 71,
+        "MoveID": 163,
+        "Requirement": "Lv. 13"
+    },
+    {
+        "PokemonSpeciesID": 72,
+        "MoveID": 163,
+        "Requirement": "Lv. 13"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 163,
+        "Requirement": "Lv.  13"
+    },
+    {
+        "PokemonSpeciesID": 73,
+        "MoveID": 163,
+        "Requirement": "Lv.  1"
+    },
+    {
+        "PokemonSpeciesID": 108,
+        "MoveID": 163,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 147,
+        "MoveID": 163,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 148,
+        "MoveID": 163,
+        "Requirement": "Lv. 1"
+    },
+    {
+        "PokemonSpeciesID": 149,
+        "MoveID": 163,
+        "Requirement": "Lv. 1"
+    }
+]

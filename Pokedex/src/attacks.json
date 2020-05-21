@@ -1,0 +1,1469 @@
+[
+    {
+        "MoveID": 1,
+        "MoveName": "Absorb",
+        "MoveType": "Grass",
+        "MoveText": "A GRASS-type attack. It adds half the HP it drained from the target to the attacker's HP.",
+        "MovePP": "20",
+        "MoveBase": "20",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 2,
+        "MoveName": "Acid",
+        "MoveType": "Poison",
+        "MoveText": "A POISON-type attack. Has a one-in-three chance of lowering the target's DEFENSE.",
+        "MovePP": "30",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 3,
+        "MoveName": "Acid Armor",
+        "MoveType": "Poison",
+        "MoveText": "Melts the user's body for protection. A move that sharply raises DEFENSE.",
+        "MovePP": "40",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 4,
+        "MoveName": "Agility",
+        "MoveType": "Psychic",
+        "MoveText": "A special technique that greatly boosts the user's SPEED. Can normally be used up to three times.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 5,
+        "MoveName": "Amnesia",
+        "MoveType": "Psychic",
+        "MoveText": "Sharply raises the user's SPECIAL stat. Also increases protection against special attacks.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 6,
+        "MoveName": "Aurora Beam",
+        "MoveType": "Ice",
+        "MoveText": "An ICE-type attack. Has a one-in-three chance of reducing the target's ATTACK power.",
+        "MovePP": "20",
+        "MoveBase": "65",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 7,
+        "MoveName": "Barrage",
+        "MoveType": "Normal",
+        "MoveText": "Several spheres are thrown consecutively at the target to inflict damage.",
+        "MovePP": "20",
+        "MoveBase": "15",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 8,
+        "MoveName": "Barrier",
+        "MoveType": "Psychic",
+        "MoveText": "Instantly forms a barrier between the user and the opponent. DEFENSE is sharply increased.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 9,
+        "MoveName": "Bide",
+        "MoveType": "Normal",
+        "MoveText": "The user waits for several turns. At the end, it returns double the damage it received.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 10,
+        "MoveName": "Bind",
+        "MoveType": "Normal",
+        "MoveText": "Traps and squeezes the target over several turns. The target cannot move while under attack.",
+        "MovePP": "20",
+        "MoveBase": "15",
+        "MoveAccuracy": "74.6"
+    },
+    {
+        "MoveID": 11,
+        "MoveName": "Bite",
+        "MoveType": "Normal",
+        "MoveText": "A bite made using sharp fangs. This may cause the opponent to flinch, and it might not attack.",
+        "MovePP": "25",
+        "MoveBase": "60",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 12,
+        "MoveName": "Blizzard",
+        "MoveType": "Ice",
+        "MoveText": "The strongest ICE-type attack. Has a one-in-ten chance of freezing the target solid.",
+        "MovePP": "5",
+        "MoveBase": "120",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 13,
+        "MoveName": "Body Slam",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Has a one-in-three chance of paralyzing the target if it connects.",
+        "MovePP": "15",
+        "MoveBase": "85",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 14,
+        "MoveName": "Bone Club",
+        "MoveType": "Ground",
+        "MoveText": "A physical attack using a bone as a club. If it connects, it may cause the target to flinch.",
+        "MovePP": "20",
+        "MoveBase": "65",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 15,
+        "MoveName": "Bonemerang",
+        "MoveType": "Ground",
+        "MoveText": "A boomerang made of bone is thrown to inflict damage twice -- on the way out and on its return.",
+        "MovePP": "10",
+        "MoveBase": "50",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 16,
+        "MoveName": "Bubble",
+        "MoveType": "Water",
+        "MoveText": "A WATER-type attack. Has a one-in-three chance of reducing the target's SPEED.",
+        "MovePP": "30",
+        "MoveBase": "20",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 17,
+        "MoveName": "Bubble Beam",
+        "MoveType": "Water",
+        "MoveText": "A WATER-type attack. Has a one-in-three chance of reducing the target's SPEED.",
+        "MovePP": "20",
+        "MoveBase": "65",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 18,
+        "MoveName": "Clamp",
+        "MoveType": "Water",
+        "MoveText": "The target is gripped in the attacker's shell for two to five turns. It can't move while under attack.",
+        "MovePP": "10",
+        "MoveBase": "35",
+        "MoveAccuracy": "75"
+    },
+    {
+        "MoveID": 19,
+        "MoveName": "Comet Punch",
+        "MoveType": "Normal",
+        "MoveText": "Although each slap is weak, this attack hits the target two to five times in succession.",
+        "MovePP": "15",
+        "MoveBase": "18",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 20,
+        "MoveName": "Confuse Ray",
+        "MoveType": "Ghost",
+        "MoveText": "A sinister flash of light makes the target confused. A special GHOST-type technique.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 21,
+        "MoveName": "Confusion",
+        "MoveType": "Psychic",
+        "MoveText": "A PSYCHIC-type attack. Has a one-in-ten chance of leaving the target confused.",
+        "MovePP": "25",
+        "MoveBase": "50",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 22,
+        "MoveName": "Constrict",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Has a one-in-three chance of reducing the target's SPEED.",
+        "MovePP": "35",
+        "MoveBase": "10",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 23,
+        "MoveName": "Conversion",
+        "MoveType": "Normal",
+        "MoveText": "A special move that switches the user's elemental type to that of the target.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 24,
+        "MoveName": "Counter",
+        "MoveType": "Fighting",
+        "MoveText": "A retaliation move that pays back double the damage of a physical attack. Highly accurate.",
+        "MovePP": "20",
+        "MoveBase": "1",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 25,
+        "MoveName": "Crabhammer",
+        "MoveType": "Water",
+        "MoveText": "A move that is used only by Pok\u00e9mon with pincers. Likely to get a critical hit.",
+        "MovePP": "10",
+        "MoveBase": "90",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 26,
+        "MoveName": "Cut",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Also used for cutting small bushes to open new paths.",
+        "MovePP": "30",
+        "MoveBase": "50",
+        "MoveAccuracy": "95"
+    },
+    {
+        "MoveID": 27,
+        "MoveName": "Defense Curl",
+        "MoveType": "Normal",
+        "MoveText": "Raises the user's DEFENSE. Can normally be used up to six times in a row.",
+        "MovePP": "40",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 28,
+        "MoveName": "Dig",
+        "MoveType": "Ground",
+        "MoveText": "The attacker digs underground in the first turn, then pops up in the next turn to attack.",
+        "MovePP": "10",
+        "MoveBase": "100",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 29,
+        "MoveName": "Disable",
+        "MoveType": "Normal",
+        "MoveText": "A technique that disables one of the target's moves. The disabled move can't be used until it wears off.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "55"
+    },
+    {
+        "MoveID": 30,
+        "MoveName": "Dizzy Punch",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. The punch is relatively strong and highly accurate.",
+        "MovePP": "10",
+        "MoveBase": "70",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 31,
+        "MoveName": "Double Kick",
+        "MoveType": "Fighting",
+        "MoveText": "A FIGHTING-type attack. As the name implies, it is actually two quick kicks in succession.",
+        "MovePP": "30",
+        "MoveBase": "30",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 32,
+        "MoveName": "Double Slap",
+        "MoveType": "Normal",
+        "MoveText": "Although each slap is weak, this attack hits the target two to five times in succession.",
+        "MovePP": "10",
+        "MoveBase": "15",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 33,
+        "MoveName": "Double Team",
+        "MoveType": "Normal",
+        "MoveText": "Creates illusionary copies of the user. The copies disorient the enemy, reducing its accuracy.",
+        "MovePP": "15",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 34,
+        "MoveName": "Double-Edge",
+        "MoveType": "Normal",
+        "MoveText": "A charging tackle attack. One quarter of the damage it inflicts comes back to hurt the attacker.",
+        "MovePP": "15",
+        "MoveBase": "100",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 35,
+        "MoveName": "Dragon Rage",
+        "MoveType": "Dragon",
+        "MoveText": "A DRAGON-type attack. It inflicts a set amount of damage, regardless of the target's type.",
+        "MovePP": "10",
+        "MoveBase": "1",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 36,
+        "MoveName": "Dream Eater",
+        "MoveType": "Psychic",
+        "MoveText": "Works only on sleeping Pok\u00e9mon. This technique steals the target's HP and adds it to the user's HP.",
+        "MovePP": "15",
+        "MoveBase": "100",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 37,
+        "MoveName": "Drill Peck",
+        "MoveType": "Flying",
+        "MoveText": "A standard FLYING-type attack. It is strong and highly likely to hit the target.",
+        "MovePP": "20",
+        "MoveBase": "80",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 38,
+        "MoveName": "Earthquake",
+        "MoveType": "Ground",
+        "MoveText": "An attack that inflicts damage by shaking the ground. It is useless against FLYING-type Pok\u00e9mon.",
+        "MovePP": "10",
+        "MoveBase": "100",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 39,
+        "MoveName": "Egg Bomb",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. An egg is launched at the target. It may miss, however.",
+        "MovePP": "10",
+        "MoveBase": "100",
+        "MoveAccuracy": "75"
+    },
+    {
+        "MoveID": 40,
+        "MoveName": "Ember",
+        "MoveType": "Fire",
+        "MoveText": "A FIRE-type attack. Has a one-in-ten chance of leaving the target with a damaging burn.",
+        "MovePP": "25",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 41,
+        "MoveName": "Explosion",
+        "MoveType": "Normal",
+        "MoveText": "The most powerful attack of all. However, the attacker faints after using this move.",
+        "MovePP": "5",
+        "MoveBase": "170",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 42,
+        "MoveName": "Fire Blast",
+        "MoveType": "Fire",
+        "MoveText": "The strongest FIRE-type attack. Has a one-in-three chance of inflicting a burn on the target.",
+        "MovePP": "5",
+        "MoveBase": "120",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 43,
+        "MoveName": "Fire Punch",
+        "MoveType": "Fire",
+        "MoveText": "A special FIRE-type attack. Has a one-in-ten chance of inflicting a burn on the target.",
+        "MovePP": "15",
+        "MoveBase": "75",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 44,
+        "MoveName": "Fire Spin",
+        "MoveType": "Fire",
+        "MoveText": "A FIRE-type attack that lasts two to five turns. The target cannot move while surrounded by flames.",
+        "MovePP": "15",
+        "MoveBase": "15",
+        "MoveAccuracy": "70"
+    },
+    {
+        "MoveID": 45,
+        "MoveName": "Fissure",
+        "MoveType": "Ground",
+        "MoveText": "Causes a single-hit knockout if it hits. Useless against FLYING-type Pok\u00e9mon.",
+        "MovePP": "5",
+        "MoveBase": "1",
+        "MoveAccuracy": "30"
+    },
+    {
+        "MoveID": 46,
+        "MoveName": "Flamethrower",
+        "MoveType": "Fire",
+        "MoveText": "A powerful FIRE-type attack. Has a one-in-ten chance of leaving the target with a damaging burn.",
+        "MovePP": "15",
+        "MoveBase": "95",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 47,
+        "MoveName": "Flash",
+        "MoveType": "Normal",
+        "MoveText": "Creates a brilliant flash of light that blinds the target. This technique reduces the opponent's accuracy.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "70"
+    },
+    {
+        "MoveID": 48,
+        "MoveName": "Fly",
+        "MoveType": "Flying",
+        "MoveText": "The Pok\u00e9mon flies high, then strikes in the next turn. Used for flying to places already visited.",
+        "MovePP": "15",
+        "MoveBase": "70",
+        "MoveAccuracy": "95"
+    },
+    {
+        "MoveID": 49,
+        "MoveName": "Focus Energy",
+        "MoveType": "Normal",
+        "MoveText": "Raises the likelihood of nailing the opponent's weak spot for a critical hit.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 50,
+        "MoveName": "Fury Attack",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. The Pok\u00e9mon rapidly jabs at its opponent several times.",
+        "MovePP": "20",
+        "MoveBase": "15",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 51,
+        "MoveName": "Fury Swipes",
+        "MoveType": "Normal",
+        "MoveText": "The target is scratched by sharp claws two to five times in quick succession.",
+        "MovePP": "15",
+        "MoveBase": "18",
+        "MoveAccuracy": "80"
+    },
+    {
+        "MoveID": 52,
+        "MoveName": "Glare",
+        "MoveType": "Normal",
+        "MoveText": "The target is transfixed with terrifying sharp eyes. The target is frightened into paralysis.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "75"
+    },
+    {
+        "MoveID": 53,
+        "MoveName": "Growl",
+        "MoveType": "Normal",
+        "MoveText": "A technique that lowers the target's ATTACK power. Can normally be used up to six times.",
+        "MovePP": "40",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 54,
+        "MoveName": "Guillotine",
+        "MoveType": "Normal",
+        "MoveText": "A single-hit knockout attack. Learned only by Pok\u00e9mon that have large pincers.",
+        "MovePP": "5",
+        "MoveBase": "1",
+        "MoveAccuracy": "30"
+    },
+    {
+        "MoveID": 55,
+        "MoveName": "Gust",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack used by bird Pok\u00e9mon. A powerful wind is generated by flapping wings.",
+        "MovePP": "35",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 56,
+        "MoveName": "Harden",
+        "MoveType": "Normal",
+        "MoveText": "Raises the user's DEFENSE. Useful when battling physically strong Pok\u00e9mon.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 57,
+        "MoveName": "Haze",
+        "MoveType": "Ice",
+        "MoveText": "Eliminates all changes affecting status, such as SPEED and accuracy, of both Pok\u00e9mon in battle.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 58,
+        "MoveName": "Headbutt",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Has a one-in-three chance of making the target flinch if it connects.",
+        "MovePP": "15",
+        "MoveBase": "70",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 59,
+        "MoveName": "Hi Jump Kick",
+        "MoveType": "Fighting",
+        "MoveText": "Stronger than a JUMP KICK. If it misses, the attacker sustains 1/8 the damage it should have caused.",
+        "MovePP": "20",
+        "MoveBase": "85",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 60,
+        "MoveName": "Horn Attack",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. A sharp horn is driven hard into the target to inflict damage.",
+        "MovePP": "25",
+        "MoveBase": "65",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 61,
+        "MoveName": "Horn Drill",
+        "MoveType": "Normal",
+        "MoveText": "A single-hit knockout attack. Learned only by Pok\u00e9mon with a horn or horns.",
+        "MovePP": "5",
+        "MoveBase": "1",
+        "MoveAccuracy": "30"
+    },
+    {
+        "MoveID": 62,
+        "MoveName": "Hydro Pump",
+        "MoveType": "Water",
+        "MoveText": "The strongest WATER-type attack. However, while it is powerful, it may miss the target.",
+        "MovePP": "5",
+        "MoveBase": "120",
+        "MoveAccuracy": "80"
+    },
+    {
+        "MoveID": 63,
+        "MoveName": "Hyper Beam",
+        "MoveType": "Normal",
+        "MoveText": "An extremely powerful attack. The attacker becomes so tired, it has to rest the next turn.",
+        "MovePP": "5",
+        "MoveBase": "150",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 64,
+        "MoveName": "Hyper Fang",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Has a one-in-ten chance of making the target flinch.",
+        "MovePP": "15",
+        "MoveBase": "80",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 65,
+        "MoveName": "Hypnosis",
+        "MoveType": "Psychic",
+        "MoveText": "A special PSYCHIC-type move. The target is hypnotized into a deep sleep.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "59.8"
+    },
+    {
+        "MoveID": 66,
+        "MoveName": "Ice Beam",
+        "MoveType": "Ice",
+        "MoveText": "An ICE-type attack. Has a one-in-ten chance of freezing the target solid.",
+        "MovePP": "10",
+        "MoveBase": "95",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 67,
+        "MoveName": "Ice Punch",
+        "MoveType": "Ice",
+        "MoveText": "A special ICE-type attack. Has a one-in-ten chance of freezing the target.",
+        "MovePP": "15",
+        "MoveBase": "75",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 68,
+        "MoveName": "Jump Kick",
+        "MoveType": "Fighting",
+        "MoveText": "A forceful FIGHTING-type attack. If it misses, however, the attacker gets hurt.",
+        "MovePP": "25",
+        "MoveBase": "70",
+        "MoveAccuracy": "95"
+    },
+    {
+        "MoveID": 69,
+        "MoveName": "Karate Chop",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Often turns into a critical hit and inflicts double the damage.",
+        "MovePP": "25",
+        "MoveBase": "50",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 70,
+        "MoveName": "Kinesis",
+        "MoveType": "Psychic",
+        "MoveText": "A special move of bending spoons to confound the enemy. Makes the user harder to hit.",
+        "MovePP": "15",
+        "MoveBase": "0",
+        "MoveAccuracy": "80"
+    },
+    {
+        "MoveID": 71,
+        "MoveName": "Leech Life",
+        "MoveType": "Bug",
+        "MoveText": "An HP-draining attack. It adds half the HP it drained from the target to the attacker's HP.",
+        "MovePP": "15",
+        "MoveBase": "20",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 72,
+        "MoveName": "Leech Seed",
+        "MoveType": "Grass",
+        "MoveText": "Plants a seed on the target Pok\u00e9mon. The seed slowly drains the target's HP for the attacker.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 73,
+        "MoveName": "Leer",
+        "MoveType": "Normal",
+        "MoveText": "A technique that lowers the target's DEFENSE. Useful against tough, armored Pok\u00e9mon.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 74,
+        "MoveName": "Lick",
+        "MoveType": "Ghost",
+        "MoveText": "A GHOST-type attack. Has a one-in-three chance of leaving the target with paralysis.",
+        "MovePP": "30",
+        "MoveBase": "20",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 75,
+        "MoveName": "Light Screen",
+        "MoveType": "Psychic",
+        "MoveText": "Reduces damage from special attacks by about half. A special PSYCHIC-type technique.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 76,
+        "MoveName": "Lovely Kiss",
+        "MoveType": "Normal",
+        "MoveText": "A special move that puts the target to sleep with a big kiss. (Actually, the victim passes out.)",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "75"
+    },
+    {
+        "MoveID": 77,
+        "MoveName": "Low Kick",
+        "MoveType": "Fighting",
+        "MoveText": "A FIGHTING-type attack. Has a one-in-three chance of making the target flinch if it connects.",
+        "MovePP": "20",
+        "MoveBase": "50",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 78,
+        "MoveName": "Meditate",
+        "MoveType": "Psychic",
+        "MoveText": "A special technique that boosts the user's ATTACK power. Can normally be used up to six times.",
+        "MovePP": "40",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 79,
+        "MoveName": "Mega Drain",
+        "MoveType": "Grass",
+        "MoveText": "A GRASS-type attack. It adds half the HP it drained from the target to the attacker's HP.",
+        "MovePP": "10",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 80,
+        "MoveName": "Mega Kick",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Out of all the Pok\u00e9mon kicking attacks, this is the strongest.",
+        "MovePP": "5",
+        "MoveBase": "120",
+        "MoveAccuracy": "74.6"
+    },
+    {
+        "MoveID": 81,
+        "MoveName": "Mega Punch",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack move. It is highly accurate and relatively powerful.",
+        "MovePP": "20",
+        "MoveBase": "80",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 82,
+        "MoveName": "Metronome",
+        "MoveType": "Normal",
+        "MoveText": "The user waggles its finger, triggering a move. There is no telling what will happen.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 83,
+        "MoveName": "Mimic",
+        "MoveType": "Normal",
+        "MoveText": "A move for learning one of the opponent's moves, for use during that battle only.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 84,
+        "MoveName": "Minimize",
+        "MoveType": "Normal",
+        "MoveText": "Reduces the user's size and makes it harder to hit. Can normally be used up to six times.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 85,
+        "MoveName": "Mirror Move",
+        "MoveType": "Flying",
+        "MoveText": "A move that strikes back with the opponent's last move. This move comes after the enemy's move.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 86,
+        "MoveName": "Mist",
+        "MoveType": "Ice",
+        "MoveText": "Provides full protection against any enemy status attack, such as those that lower DEFENSE.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 87,
+        "MoveName": "Night Shade",
+        "MoveType": "Ghost",
+        "MoveText": "A GHOST-type attack. Highly accurate, it inflicts damage regardless of the target's type.",
+        "MovePP": "15",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 88,
+        "MoveName": "Pay Day",
+        "MoveType": "Normal",
+        "MoveText": "A move that also nets money at the end of battle. How much depends on the attack frequency and level.",
+        "MovePP": "20",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 89,
+        "MoveName": "Peck",
+        "MoveType": "Flying",
+        "MoveText": "A standard FLYING-type attack. It is favored by Pok\u00e9mon that have beaks and/or horns.",
+        "MovePP": "35",
+        "MoveBase": "35",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 90,
+        "MoveName": "Petal Dance",
+        "MoveType": "Grass",
+        "MoveText": "A dance-like attack that lasts two to three turns. Afterwards, the attacker becomes confused.",
+        "MovePP": "20",
+        "MoveBase": "70",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 91,
+        "MoveName": "Pin Missile",
+        "MoveType": "Bug",
+        "MoveText": "An attack that fires many needle-like projectiles from the body. Strikes several times.",
+        "MovePP": "20",
+        "MoveBase": "14",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 92,
+        "MoveName": "Poison Gas",
+        "MoveType": "Poison",
+        "MoveText": "A poisonous cloud of gas is forcefully expelled to poison the target.",
+        "MovePP": "40",
+        "MoveBase": "0",
+        "MoveAccuracy": "55"
+    },
+    {
+        "MoveID": 93,
+        "MoveName": "Poison Powder",
+        "MoveType": "Poison",
+        "MoveText": "A technique that poisons the target. If poisoned, the victim loses HP steadily.",
+        "MovePP": "35",
+        "MoveBase": "0",
+        "MoveAccuracy": "74.6"
+    },
+    {
+        "MoveID": 94,
+        "MoveName": "Poison Sting",
+        "MoveType": "Poison",
+        "MoveText": "A POISON-type attack. Has a one-in- five chance of leaving the target  with the lingering effects of poison.",
+        "MovePP": "35",
+        "MoveBase": "15",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 95,
+        "MoveName": "Pound",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Slightly stronger than TACKLE. Many Pok\u00e9mon know this move.",
+        "MovePP": "35",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 96,
+        "MoveName": "Psybeam",
+        "MoveType": "Psychic",
+        "MoveText": "A PSYCHIC-type attack. Has a one-in-ten chance of making the target confused.",
+        "MovePP": "20",
+        "MoveBase": "65",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 97,
+        "MoveName": "Psychic",
+        "MoveType": "Psychic",
+        "MoveText": "A PSYCHIC-type attack. Has a one-in-three chance of lowering the target's SPECIAL rating.",
+        "MovePP": "10",
+        "MoveBase": "90",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 98,
+        "MoveName": "Psywave",
+        "MoveType": "Psychic",
+        "MoveText": "A PSYCHIC-type attack of varying intensity. It occasionally inflicts  heavy damage.",
+        "MovePP": "15",
+        "MoveBase": "1",
+        "MoveAccuracy": "80"
+    },
+    {
+        "MoveID": 99,
+        "MoveName": "Quick Attack",
+        "MoveType": "Normal",
+        "MoveText": "An attack that always strikes first. If both Pok\u00e9mon use this, the one with higher SPEED attacks first.",
+        "MovePP": "30",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 100,
+        "MoveName": "Rage",
+        "MoveType": "Normal",
+        "MoveText": "A non-stop attack move. The user's ATTACK power increases every time it sustains damage.",
+        "MovePP": "20",
+        "MoveBase": "20",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 101,
+        "MoveName": "Razor Leaf",
+        "MoveType": "Grass",
+        "MoveText": "A GRASS-type attack that sends sharp-edged leaves at the target. Likely to get a critical hit.",
+        "MovePP": "25",
+        "MoveBase": "55",
+        "MoveAccuracy": "95"
+    },
+    {
+        "MoveID": 102,
+        "MoveName": "Razor Wind",
+        "MoveType": "Normal",
+        "MoveText": "A two-turn attack with the wind attack in the second turn. Learned by many FLYING-type Pok\u00e9mon.",
+        "MovePP": "10",
+        "MoveBase": "80",
+        "MoveAccuracy": "74.6"
+    },
+    {
+        "MoveID": 103,
+        "MoveName": "Recover",
+        "MoveType": "Normal",
+        "MoveText": "Restores HP by 1/2 of the user's maximum HP. Few Pok\u00e9mon learn this technique on their own.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 104,
+        "MoveName": "Reflect",
+        "MoveType": "Psychic",
+        "MoveText": "Reduces damage from physical attacks by about half. A special PSYCHIC-type technique.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 105,
+        "MoveName": "Rest",
+        "MoveType": "Psychic",
+        "MoveText": "The user takes a nap to fully restore its HP and recover from any status abnormalities.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 106,
+        "MoveName": "Roar",
+        "MoveType": "Normal",
+        "MoveText": "A terrifying roar that drives wild Pok\u00e9mon away. It is useful only in the wild.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 107,
+        "MoveName": "Rock Slide",
+        "MoveType": "Rock",
+        "MoveText": "A ROCK-type attack that hits the target with an avalanche of rocks and boulders.",
+        "MovePP": "10",
+        "MoveBase": "75",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 108,
+        "MoveName": "Rock Throw",
+        "MoveType": "Rock",
+        "MoveText": "A ROCK-type attack. As the name implies, a huge boulder is dropped on the target.",
+        "MovePP": "15",
+        "MoveBase": "50",
+        "MoveAccuracy": "65"
+    },
+    {
+        "MoveID": 109,
+        "MoveName": "Rolling Kick",
+        "MoveType": "Fighting",
+        "MoveText": "A sharp FIGHTING-type attack. Has a one-in-three chance of making the target flinch if it connects.",
+        "MovePP": "15",
+        "MoveBase": "60",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 110,
+        "MoveName": "Scratch",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Sharp claws are used to inflict damage on the target.",
+        "MovePP": "35",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 111,
+        "MoveName": "Screech",
+        "MoveType": "Normal",
+        "MoveText": "A move that makes a horrible noise. It sharply reduces the target's DEFENSE.",
+        "MovePP": "40",
+        "MoveBase": "0",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 112,
+        "MoveName": "Seismic Toss",
+        "MoveType": "Fighting",
+        "MoveText": "A FIGHTING-type attack. Throws the target with enough force to flip the world upside down.",
+        "MovePP": "20",
+        "MoveBase": "1",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 113,
+        "MoveName": "Self-Destruct",
+        "MoveType": "Normal",
+        "MoveText": "The user explodes, inflicting damage on the enemy, then faints. Useless against GHOST-type.",
+        "MovePP": "5",
+        "MoveBase": "130",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 114,
+        "MoveName": "Sharpen",
+        "MoveType": "Normal",
+        "MoveText": "Raises the user's ATTACK power. The edges of the Pok\u00e9mon are made harder for more impact.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 115,
+        "MoveName": "Sing",
+        "MoveType": "Normal",
+        "MoveText": "A special NORMAL-type technique. A soothing melody lulls the target to sleep.",
+        "MovePP": "15",
+        "MoveBase": "0",
+        "MoveAccuracy": "55"
+    },
+    {
+        "MoveID": 116,
+        "MoveName": "Skull Bash",
+        "MoveType": "Normal",
+        "MoveText": "In the first turn, the attacker tucks in its head. The next turn, it head-butts at full steam.",
+        "MovePP": "15",
+        "MoveBase": "100",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 117,
+        "MoveName": "Sky Attack",
+        "MoveType": "Flying",
+        "MoveText": "The strongest FLYING-type attack. Energy is stored in the first turn, then fired the next turn.",
+        "MovePP": "5",
+        "MoveBase": "140",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 118,
+        "MoveName": "Slam",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack move. The attacker uses an appendage (e.g. tail) to slam the target hard.",
+        "MovePP": "20",
+        "MoveBase": "80",
+        "MoveAccuracy": "74.6"
+    },
+    {
+        "MoveID": 119,
+        "MoveName": "Slash",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. It has a high probability of a critical hit for inflicting double the damage.",
+        "MovePP": "20",
+        "MoveBase": "70",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 120,
+        "MoveName": "Sleep Powder",
+        "MoveType": "Grass",
+        "MoveText": "Induces sleep. A Pok\u00e9mon will stay asleep for several turns if an item isn't used to wake it.",
+        "MovePP": "15",
+        "MoveBase": "0",
+        "MoveAccuracy": "75"
+    },
+    {
+        "MoveID": 121,
+        "MoveName": "Sludge",
+        "MoveType": "Poison",
+        "MoveText": "A POISON-type attack. Has a fifty-fifty chance of poisoning the target.",
+        "MovePP": "20",
+        "MoveBase": "65",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 122,
+        "MoveName": "Smog",
+        "MoveType": "Poison",
+        "MoveText": "Smog is spewed as a cloud. Has a fifty-fifty chance of poisoning the target.",
+        "MovePP": "20",
+        "MoveBase": "20",
+        "MoveAccuracy": "70"
+    },
+    {
+        "MoveID": 123,
+        "MoveName": "Smokescreen",
+        "MoveType": "Normal",
+        "MoveText": "Creates an obscuring cloud of smoke that reduces the enemy's accuracy.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 124,
+        "MoveName": "Soft-Boiled",
+        "MoveType": "Normal",
+        "MoveText": "Restores HP by 1/2 of the user's maximum HP. May also be used in the field.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 125,
+        "MoveName": "Solar Beam",
+        "MoveType": "Grass",
+        "MoveText": "The strongest GRASS-type attack. Energy is absorbed in the first turn, then fired the next turn.",
+        "MovePP": "10",
+        "MoveBase": "120",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 126,
+        "MoveName": "Sonic Boom",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. It inflicts a set amount of damage regardless of the target's type.",
+        "MovePP": "20",
+        "MoveBase": "1",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 127,
+        "MoveName": "Spike Cannon",
+        "MoveType": "Normal",
+        "MoveText": "A physical attack consisting of two to five consecutive hits. Highly accurate.",
+        "MovePP": "15",
+        "MoveBase": "20",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 128,
+        "MoveName": "Splash",
+        "MoveType": "Normal",
+        "MoveText": "A move that involves only flopping and SPLASHing around in front of the opponent. It has no effect.",
+        "MovePP": "40",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 129,
+        "MoveName": "Spore",
+        "MoveType": "Grass",
+        "MoveText": "Special spores are scattered from mushrooms. If the opponent inhales the spores, it will fall asleep.",
+        "MovePP": "15",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 130,
+        "MoveName": "Stomp",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Has a one-in-three chance of making the target flinch if it connects.",
+        "MovePP": "20",
+        "MoveBase": "65",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 131,
+        "MoveName": "Strength",
+        "MoveType": "Normal",
+        "MoveText": "A very powerful NORMAL-type attack. Also used for moving obstacles like boulders.",
+        "MovePP": "15",
+        "MoveBase": "80",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 132,
+        "MoveName": "String Shot",
+        "MoveType": "Bug",
+        "MoveText": "Strings are sprayed out and wrapped around the target to reduce its SPEED.",
+        "MovePP": "40",
+        "MoveBase": "0",
+        "MoveAccuracy": "95"
+    },
+    {
+        "MoveID": 133,
+        "MoveName": "Struggle",
+        "MoveType": "Normal",
+        "MoveText": "Used only if the user runs totally out of PP. The user is hit with 1/4 of the  damage it inflicts.",
+        "MovePP": "10",
+        "MoveBase": "50",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 134,
+        "MoveName": "Stun Spore",
+        "MoveType": "Grass",
+        "MoveText": "A special move that causes paralysis. When paralyzed, the victim has a one-in-four chance of immobility.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "75"
+    },
+    {
+        "MoveID": 135,
+        "MoveName": "Submission",
+        "MoveType": "Fighting",
+        "MoveText": "The strongest FIGHTING attack. One quarter of the damage it inflicts comes back to hurt the attacker.",
+        "MovePP": "25",
+        "MoveBase": "80",
+        "MoveAccuracy": "80"
+    },
+    {
+        "MoveID": 136,
+        "MoveName": "Substitute",
+        "MoveType": "Normal",
+        "MoveText": "Uses 1/4 of the user's maximum HP to create a substitute that takes the opponent's attacks.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 137,
+        "MoveName": "Super Fang",
+        "MoveType": "Normal",
+        "MoveText": "If it hits, this attack cuts the target's HP in half. Learned by Pok\u00e9mon with developed fangs.",
+        "MovePP": "10",
+        "MoveBase": "1",
+        "MoveAccuracy": "90"
+    },
+    {
+        "MoveID": 138,
+        "MoveName": "Supersonic",
+        "MoveType": "Normal",
+        "MoveText": "A special NORMAL-type technique. Supersonic sound waves are used to confuse the target.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "55"
+    },
+    {
+        "MoveID": 139,
+        "MoveName": "Surf",
+        "MoveType": "Water",
+        "MoveText": "A WATER-type attack. The power of this technique is strong and highly accurate.",
+        "MovePP": "15",
+        "MoveBase": "95",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 140,
+        "MoveName": "Swift",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. It is highly accurate, so it can be counted on to inflict damage.",
+        "MovePP": "20",
+        "MoveBase": "60",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 141,
+        "MoveName": "Swords Dance",
+        "MoveType": "Normal",
+        "MoveText": "A special move that greatly boosts the user's ATTACK power. Can normally be used up to three times.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 142,
+        "MoveName": "Tackle",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. Many Pok\u00e9mon know this attack right from the start.",
+        "MovePP": "35",
+        "MoveBase": "35",
+        "MoveAccuracy": "95"
+    },
+    {
+        "MoveID": 143,
+        "MoveName": "Tail Whip",
+        "MoveType": "Normal",
+        "MoveText": "A technique that lowers the target's DEFENSE. Useful against tough, armored Pok\u00e9mon.",
+        "MovePP": "30",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 144,
+        "MoveName": "Take Down",
+        "MoveType": "Normal",
+        "MoveText": "A charging attack. One quarter of the damage it inflicts comes back to hurt the attacker.",
+        "MovePP": "20",
+        "MoveBase": "90",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 145,
+        "MoveName": "Teleport",
+        "MoveType": "Psychic",
+        "MoveText": "A special technique for instantly escaping from wild Pok\u00e9mon. Useful in the wild only.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 146,
+        "MoveName": "Thrash",
+        "MoveType": "Normal",
+        "MoveText": "An attack that lasts two to three turns. Afterwards, the attacker becomes confused.",
+        "MovePP": "20",
+        "MoveBase": "90",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 147,
+        "MoveName": "Thunder",
+        "MoveType": "Electric",
+        "MoveText": "The strongest of all ELECTRIC-type attacks. Has a one-in-ten chance of paralyzing the target.",
+        "MovePP": "10",
+        "MoveBase": "120",
+        "MoveAccuracy": "70"
+    },
+    {
+        "MoveID": 148,
+        "MoveName": "Thunder Punch",
+        "MoveType": "Electric",
+        "MoveText": "A special ELECTRIC-type attack. Has a one-in-ten chance of paralyzing the target.",
+        "MovePP": "15",
+        "MoveBase": "75",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 149,
+        "MoveName": "Thunder Shock",
+        "MoveType": "Electric",
+        "MoveText": "An ELECTRIC-type attack. Has a one-in-ten chance of paralyzing the target.",
+        "MovePP": "30",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 150,
+        "MoveName": "Thunder Wave",
+        "MoveType": "Electric",
+        "MoveText": "A special move that causes paralysis. When paralyzed, the victim has a one-in-four chance of immobility.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 151,
+        "MoveName": "Thunderbolt",
+        "MoveType": "Electric",
+        "MoveText": "An ELECTRIC-type attack. Has a one-in-ten chance of paralyzing the target.",
+        "MovePP": "15",
+        "MoveBase": "95",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 152,
+        "MoveName": "Toxic",
+        "MoveType": "Poison",
+        "MoveText": "A technique that badly poisons the target. The amount of damage from the poison increases every turn.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 153,
+        "MoveName": "Transform",
+        "MoveType": "Normal",
+        "MoveText": "Transforms the user into a copy of the target, including the type. All moves have only five PP each.",
+        "MovePP": "10",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 154,
+        "MoveName": "Tri Attack",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack. A triangular field of energy is created and launched at the target.",
+        "MovePP": "10",
+        "MoveBase": "80",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 155,
+        "MoveName": "Twineedle",
+        "MoveType": "Bug",
+        "MoveText": "An attack that strikes twice. The target may occasionally become poisoned.",
+        "MovePP": "20",
+        "MoveBase": "25",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 156,
+        "MoveName": "Vine Whip",
+        "MoveType": "Grass",
+        "MoveText": "A GRASS-type attack. The Pok\u00e9mon uses its cruel whips to strike the opponent.",
+        "MovePP": "10",
+        "MoveBase": "35",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 157,
+        "MoveName": "Vice Grip",
+        "MoveType": "Normal",
+        "MoveText": "A NORMAL-type attack used only by Pok\u00e9mon with pincers. The target is gripped and injured.",
+        "MovePP": "30",
+        "MoveBase": "55",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 158,
+        "MoveName": "Water Gun",
+        "MoveType": "Water",
+        "MoveText": "A WATER-type attack. Stronger than BUBBLE. Many WATER-type Pok\u00e9mon learn this move.",
+        "MovePP": "25",
+        "MoveBase": "40",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 159,
+        "MoveName": "Waterfall",
+        "MoveType": "Water",
+        "MoveText": "A WATER-type attack. The target is hit with a blow packing the power of fish traveling up waterfalls.",
+        "MovePP": "15",
+        "MoveBase": "80",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 160,
+        "MoveName": "Whirlwind",
+        "MoveType": "Normal",
+        "MoveText": "Generates a powerful wind that blows away wild Pok\u00e9mon. Useful in the wild only.",
+        "MovePP": "20",
+        "MoveBase": "0",
+        "MoveAccuracy": "85"
+    },
+    {
+        "MoveID": 161,
+        "MoveName": "Wing Attack",
+        "MoveType": "Flying",
+        "MoveText": "A FLYING-type attack. The attacking Pok\u00e9mon spreads its wings and charges at the target.",
+        "MovePP": "35",
+        "MoveBase": "35",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 162,
+        "MoveName": "Withdraw",
+        "MoveType": "Water",
+        "MoveText": "Used mainly by Pok\u00e9mon with shells. By withdrawing into the shell, DEFENSE is increased.",
+        "MovePP": "40",
+        "MoveBase": "0",
+        "MoveAccuracy": "100"
+    },
+    {
+        "MoveID": 163,
+        "MoveName": "Wrap",
+        "MoveType": "Normal",
+        "MoveText": "Traps and squeezes the target over two to five turns. The target cannot move while under attack.",
+        "MovePP": "20",
+        "MoveBase": "15",
+        "MoveAccuracy": "85"
+    }
+]
