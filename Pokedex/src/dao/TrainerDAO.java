@@ -1,8 +1,10 @@
 package dao;
 
+import javafx.util.Pair;
 import model.*;
 
 import java.sql.*;
+import java.util.ArrayList;
 import java.util.List;
 
 public class TrainerDAO {
@@ -23,11 +25,12 @@ public class TrainerDAO {
         }
         return false;
     }
+
     public boolean remove(int trainerID){
         Connection connection = null; //FIX ME: Connection
         try {
             Statement stmt = connection.createStatement();
-            int i = stmt.executeUpdate(""); //FIX ME: STATEMENT
+            int i = stmt.executeUpdate("DELETE"); //FIX ME: STATEMENT
             if(i == 1) {
                 return true;
             }
@@ -36,11 +39,12 @@ public class TrainerDAO {
         }
         return false;
     }
+
     public Trainer get(int trainerID){
         Connection connection = null; //FIX ME: CONNECTION
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery(""); //FIX ME: QUERY
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
             if(rs.next()) {
                 return new Trainer(
                         rs.getInt(""),
@@ -54,10 +58,34 @@ public class TrainerDAO {
         }
         return null;
     }
+
     public List<CaughtPokemon> getCaughtPokemon(int trainerID){
-        return null;
+        Connection connection = null; //FIX ME: CONNECTION
+        List<CaughtPokemon> pokemon = new ArrayList<>();
+        try {
+            Statement stmt = connection.createStatement();
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
+            while(rs.next()) {
+                pokemon.add(new CaughtPokemonDAO().get(trainerID, rs.getInt("")));//FIX ME: COLUMN NAME
+            }
+        } catch (SQLException ex) {
+            ex.printStackTrace();
+        }
+        return pokemon;
     }
+
     public List<PokemonSpecies> getCaughtSpecies(int trainerID){
-        return null;
+        Connection connection = null; //FIX ME: CONNECTION
+        List<PokemonSpecies> species = new ArrayList<>();
+        try {
+            Statement stmt = connection.createStatement();
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
+            while(rs.next()) {
+                species.add(new PokemonSpeciesDAO().get(rs.getInt("")));//FIX ME: COLUMN NAME
+            }
+        } catch (SQLException ex) {
+            ex.printStackTrace();
+        }
+        return species;
     }
 }

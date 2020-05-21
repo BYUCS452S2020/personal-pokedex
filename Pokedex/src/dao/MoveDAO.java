@@ -25,11 +25,12 @@ public class MoveDAO {
         }
         return false;
     }
+
     public boolean remove(int moveID){
         Connection connection = null; //FIX ME: Connection
         try {
             Statement stmt = connection.createStatement();
-            int i = stmt.executeUpdate(""); //FIX ME: STATEMENT
+            int i = stmt.executeUpdate("DELETE"); //FIX ME: STATEMENT
             if(i == 1) {
                 return true;
             }
@@ -38,11 +39,12 @@ public class MoveDAO {
         }
         return false;
     }
+
     public Move get(int moveID){
         Connection connection = null; //FIX ME: CONNECTION
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery(""); //FIX ME: QUERY
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
             if(rs.next()) {
                 return new Move(
                         rs.getInt(""),

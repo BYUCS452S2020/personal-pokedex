@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CaughtPokemonDAO {
-
     public boolean add(CaughtPokemon pokemon){
         Connection connection = null; //FIX ME: CONNECTION
         try {
@@ -28,11 +27,12 @@ public class CaughtPokemonDAO {
         }
         return false;
     }
+
     public boolean remove(int trainerID, int caughtPokemonID){
         Connection connection = null; //FIX ME: Connection
         try {
             Statement stmt = connection.createStatement();
-            int i = stmt.executeUpdate(""); //FIX ME: STATEMENT
+            int i = stmt.executeUpdate("DELETE"); //FIX ME: STATEMENT
             if(i == 1) {
                 return true;
             }
@@ -41,11 +41,12 @@ public class CaughtPokemonDAO {
         }
         return false;
     }
+
     public CaughtPokemon get(int trainerID, int caughtPokemonID){
         Connection connection = null; //FIX ME: CONNECTION
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery(""); //FIX ME: QUERY
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
             if(rs.next()) {
                 List<Move> moves = new ArrayList<>(); //FIX ME: GET MOVES
                 return new CaughtPokemon(rs.getInt(""),

@@ -36,11 +36,12 @@ public class PokemonSpeciesDAO {
         }
         return false;
     }
+
     public boolean remove(int speciesID){
         Connection connection = null; //FIX ME: Connection
         try {
             Statement stmt = connection.createStatement();
-            int i = stmt.executeUpdate(""); //FIX ME: STATEMENT
+            int i = stmt.executeUpdate("DELETE"); //FIX ME: STATEMENT
             if(i == 1) {
                 return true;
             }
@@ -49,11 +50,12 @@ public class PokemonSpeciesDAO {
         }
         return false;
     }
+
     public PokemonSpecies get(int speciesID){
         Connection connection = null; //FIX ME: CONNECTION
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery(""); //FIX ME: QUERY
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
             if(rs.next()) {
                 List<Pair<String,Move>> moves = new ArrayList<>(); //FIX ME: GET MOVES
                 return new PokemonSpecies(
@@ -78,5 +80,20 @@ public class PokemonSpeciesDAO {
             ex.printStackTrace();
         }
         return null;
+    }
+
+    public List<Pair<String, Move>> getMoves(int speciesID){
+        Connection connection = null; //FIX ME: CONNECTION
+        List<Pair<String, Move>> moves = new ArrayList<>();
+        try {
+            Statement stmt = connection.createStatement();
+            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
+            while(rs.next()) {
+                moves.add(new Pair<>(rs.getString(""), new MoveDAO().get(rs.getInt(""))));//FIX ME: COLUMN NAME
+            }
+        } catch (SQLException ex) {
+            ex.printStackTrace();
+        }
+        return moves;
     }
 }
