@@ -19,60 +19,19 @@ public class Move {
         this.accuracy = accuracy;
     }
 
-    public int getId() {
-        return id;
-    }
+    public int getId() { return id; }
+    public String getName() { return name; }
+    public String getType() { return type; }
+    public String getText() { return text; }
+    public int getPp() { return pp; }
+    public int getBase() { return base; }
+    public int getAccuracy() { return accuracy; }
 
-    public String getName() {
-        return name;
-    }
-
-    public String getType() {
-        return type;
-    }
-
-    public String getText() {
-        return text;
-    }
-
-    public int getPp() {
-        return pp;
-    }
-
-    public int getBase() {
-        return base;
-    }
-
-    public int getAccuracy() {
-        return accuracy;
-    }
-
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    public void setText(String text) {
-        this.text = text;
-    }
-
-    public void setPp(int pp) {
-        this.pp = pp;
-    }
-
-    public void setBase(int base) {
-        this.base = base;
-    }
-
-    public void setAccuracy(int accuracy) {
-        this.accuracy = accuracy;
-    }
+    public void setId(int id) { this.id = id; }
+    public void setName(String name) { this.name = name; }
+    public void setType(String type) { this.type = type; }
+    public void setText(String text) { this.text = text; }
+    public void setPp(int pp) { this.pp = pp; }
+    public void setBase(int base) { this.base = base; }
+    public void setAccuracy(int accuracy) { this.accuracy = accuracy; }
 }

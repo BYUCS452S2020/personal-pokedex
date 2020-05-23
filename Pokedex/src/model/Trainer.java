@@ -13,36 +13,13 @@ public class Trainer {
         this.hometown = hometown;
     }
 
-    public int getId() {
-        return id;
-    }
+    public int getId() { return id; }
+    public String getName() { return name; }
+    public String getSex() { return sex; }
+    public String getHometown() { return hometown; }
 
-    public String getName() {
-        return name;
-    }
-
-    public String getSex() {
-        return sex;
-    }
-
-    public String getHometown() {
-        return hometown;
-    }
-
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setSex(String sex) {
-        this.sex = sex;
-    }
-
-    public void setHometown(String hometown) {
-        this.hometown = hometown;
-    }
+    public void setId(int id) { this.id = id; }
+    public void setName(String name) { this.name = name; }
+    public void setSex(String sex) { this.sex = sex; }
+    public void setHometown(String hometown) { this.hometown = hometown; }
 }
