@@ -31,8 +31,8 @@ public class Database {
     public void openConnection(){
 
         try {
-            conn = DriverManager.getConnection("jdbc:mysql://localhost/test?" + "user=minty&password=greatsqldb");
 
+            conn=DriverManager.getConnection(  "jdbc:mysql://localhost:3306/pokdex","guest","CS452");
             conn.setAutoCommit(false);
 
         } catch (SQLException ex) {
@@ -148,5 +148,6 @@ public class Database {
         }
 
     }
+
 
 }
