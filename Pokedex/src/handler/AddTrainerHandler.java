@@ -7,6 +7,8 @@ import dao.Database;
 import dao.TrainerDAO;
 import model.Trainer;
 import request.AddTrainerRequest;
+import response.AddTrainerResponse;
+import response.GetSpeciesMovesResponse;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -33,8 +35,9 @@ public class AddTrainerHandler extends WriteHandler{
                 Connection con = new Database().getConn();
                 TrainerDAO trainerDAO = new TrainerDAO(con);
                 trainerDAO.add(request.getTrainer());
+                //ADD TO RESPONSE
 
-                //GET # RETURN #
+                writeString(new Gson().toJson(new AddTrainerResponse(trainerDAO.size()), AddTrainerResponse.class), exchange.getResponseBody());
 
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);
                 reqBody.close();

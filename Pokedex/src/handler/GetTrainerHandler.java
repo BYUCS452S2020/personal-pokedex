@@ -20,7 +20,7 @@ public class GetTrainerHandler extends WriteHandler{
         super.handle(exchange);
         System.out.println("[" + exchange.getRequestMethod().toUpperCase() + "] - " + exchange.getRequestURI().toString());
         try{
-            if(exchange.getRequestMethod().toUpperCase().equals("POST")) {
+            if(exchange.getRequestMethod().toUpperCase().equals("GET")) {
                 InputStream reqBody = exchange.getRequestBody();
                 String reqData = readString(reqBody);
                 Gson gson = new Gson();

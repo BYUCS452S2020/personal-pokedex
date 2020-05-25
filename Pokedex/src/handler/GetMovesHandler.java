@@ -8,6 +8,7 @@ import dao.TrainerDAO;
 import request.AddTrainerRequest;
 import request.GetMovesRequest;
 import response.GetMovesResponse;
+import response.GetSpeciesMovesResponse;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -25,7 +26,7 @@ public class GetMovesHandler extends WriteHandler{
         super.handle(exchange);
         System.out.println("[" + exchange.getRequestMethod().toUpperCase() + "] - " + exchange.getRequestURI().toString());
         try{
-            if(exchange.getRequestMethod().toUpperCase().equals("POST")) {
+            if(exchange.getRequestMethod().toUpperCase().equals("GET")) {
                 InputStream reqBody = exchange.getRequestBody();
                 String reqData = readString(reqBody);
                 Gson gson = new Gson();
@@ -40,6 +41,9 @@ public class GetMovesHandler extends WriteHandler{
                         moveDAO.get(request.getMoveID4()));
 
                 //ADD TO RESPONSE
+                exchange.getResponseHeaders().set("Content-Type", "application/json");
+
+                writeString(new Gson().toJson(response, GetMovesResponse.class), exchange.getResponseBody());
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);
                 reqBody.close();
             }

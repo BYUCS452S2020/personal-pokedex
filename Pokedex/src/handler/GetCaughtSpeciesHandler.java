@@ -11,6 +11,7 @@ import model.Trainer;
 import request.AddTrainerRequest;
 import request.GetCaughtSpeciesRequest;
 import response.GetCaughtSpeciesResponse;
+import response.GetSpeciesMovesResponse;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -28,7 +29,7 @@ public class GetCaughtSpeciesHandler extends WriteHandler{
         super.handle(exchange);
         System.out.println("[" + exchange.getRequestMethod().toUpperCase() + "] - " + exchange.getRequestURI().toString());
         try{
-            if(exchange.getRequestMethod().toUpperCase().equals("POST")) {
+            if(exchange.getRequestMethod().toUpperCase().equals("GET")) {
                 InputStream reqBody = exchange.getRequestBody();
                 String reqData = readString(reqBody);
                 Gson gson = new Gson();
@@ -42,6 +43,7 @@ public class GetCaughtSpeciesHandler extends WriteHandler{
 
 
                 //ADD TO RESPONSEs
+                writeString(new Gson().toJson(response, GetCaughtSpeciesResponse.class), exchange.getResponseBody());
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);
                 reqBody.close();
             }

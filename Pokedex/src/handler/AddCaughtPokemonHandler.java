@@ -6,6 +6,7 @@ import dao.CaughtPokemonDAO;
 import dao.Database;
 import request.AddCaughtPokemonRequest;
 import request.AddTrainerRequest;
+import response.GetSpeciesMovesResponse;
 
 import java.io.IOException;
 import java.io.InputStream;
