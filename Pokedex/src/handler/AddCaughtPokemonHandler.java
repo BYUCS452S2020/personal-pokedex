@@ -11,6 +11,11 @@ import java.net.HttpURLConnection;
 import java.sql.Connection;
 
 public class AddCaughtPokemonHandler extends WriteHandler{
+    /**
+     * Adds CaughtPokemon Model to table for specified TrainerId
+     * @param exchange Http crap with request body
+     * @throws IOException
+     */
     @Override
     public void handle(HttpExchange exchange) throws IOException {
         super.handle(exchange);
@@ -24,7 +29,7 @@ public class AddCaughtPokemonHandler extends WriteHandler{
 
                 //Database db = Database.getInstance();
                 //Connection con = db.openConnection();
-
+                //ADD TO CAUGHT_POKEMON TABLE
 
                 //DO STUFF
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);

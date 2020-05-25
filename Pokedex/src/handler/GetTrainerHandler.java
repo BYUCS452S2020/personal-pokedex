@@ -10,6 +10,11 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 
 public class GetTrainerHandler extends WriteHandler{
+    /**
+     * Get Trainer Model from table
+     * @param exchange Http crap with request body
+     * @throws IOException
+     */
     @Override
     public void handle(HttpExchange exchange) throws IOException {
         super.handle(exchange);
@@ -23,7 +28,7 @@ public class GetTrainerHandler extends WriteHandler{
 
                 //Database db = Database.getInstance();
                 //Connection con = db.openConnection();
-
+                //Get Trainer from table
 
                 //DO STUFF
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);

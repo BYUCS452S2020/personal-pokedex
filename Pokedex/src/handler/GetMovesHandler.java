@@ -10,6 +10,11 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 
 public class GetMovesHandler extends WriteHandler{
+    /**
+     * Get Caught Pokemon Moves from table
+     * @param exchange Http crap with request body
+     * @throws IOException
+     */
     @Override
     public void handle(HttpExchange exchange) throws IOException {
         super.handle(exchange);
@@ -23,7 +28,7 @@ public class GetMovesHandler extends WriteHandler{
 
                 //Database db = Database.getInstance();
                 //Connection con = db.openConnection();
-
+                //Get all up 4 moves from table
 
                 //DO STUFF
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);

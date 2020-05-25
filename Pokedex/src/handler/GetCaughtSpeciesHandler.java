@@ -10,6 +10,11 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 
 public class GetCaughtSpeciesHandler extends WriteHandler{
+    /**
+     * Gets Caught Species + Pokemon array from table
+     * @param exchange Http crap with request body
+     * @throws IOException
+     */
     @Override
     public void handle(HttpExchange exchange) throws IOException {
         super.handle(exchange);
@@ -23,7 +28,7 @@ public class GetCaughtSpeciesHandler extends WriteHandler{
 
                 //Database db = Database.getInstance();
                 //Connection con = db.openConnection();
-
+                //RETURN CAUGHTSPECIESRESPONSE WITH ARRAY OF JOINED TABLE INFO
 
                 //DO STUFF
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);
