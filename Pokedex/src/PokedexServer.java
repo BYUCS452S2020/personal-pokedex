@@ -1,4 +1,5 @@
 import com.sun.net.httpserver.HttpServer;
+import dao.Database;
 import handler.*;
 import model.*;
 
@@ -12,12 +13,21 @@ public class PokedexServer {
 
 
     private void startServer(int port) throws IOException {
+
+        //Database db = new Database();
+        //db.openConnection();
+        //db.createTable();
+        //db.closeConnection(true);
+
         InetSocketAddress serverAddress = new InetSocketAddress(port);
         HttpServer server = HttpServer.create(serverAddress, 10);
         registerHandlers(server);
         server.start();
         System.out.println("FamilyMapServer listening on port " + port);
     }
+
+
+
 
     private void registerHandlers(HttpServer server) {
         server.createContext("/add/trainer/pokemon", new AddCaughtPokemonHandler());
