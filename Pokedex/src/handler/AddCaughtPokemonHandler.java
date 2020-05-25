@@ -2,6 +2,8 @@ package handler;
 
 import com.google.gson.Gson;
 import com.sun.net.httpserver.HttpExchange;
+import dao.CaughtPokemonDAO;
+import dao.Database;
 import request.AddCaughtPokemonRequest;
 import request.AddTrainerRequest;
 
@@ -27,11 +29,10 @@ public class AddCaughtPokemonHandler extends WriteHandler{
                 Gson gson = new Gson();
                 AddCaughtPokemonRequest request = gson.fromJson(reqData, AddCaughtPokemonRequest.class);
 
-                //Database db = Database.getInstance();
-                //Connection con = db.openConnection();
-                //ADD TO CAUGHT_POKEMON TABLE
+                Connection con = new Database().getConn();
+                CaughtPokemonDAO caughtPokemonDAO = new CaughtPokemonDAO(con);
+                caughtPokemonDAO.add(request.getCaughtPokemon());
 
-                //DO STUFF
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);
                 reqBody.close();
             }

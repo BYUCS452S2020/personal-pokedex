@@ -2,12 +2,20 @@ package handler;
 
 import com.google.gson.Gson;
 import com.sun.net.httpserver.HttpExchange;
+import dao.CaughtPokemonDAO;
+import dao.Database;
+import dao.TrainerDAO;
+import model.CaughtPokemon;
+import model.PokemonSpecies;
+import model.Trainer;
 import request.AddTrainerRequest;
 import request.GetCaughtSpeciesRequest;
+import response.GetCaughtSpeciesResponse;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
+import java.sql.Connection;
 
 public class GetCaughtSpeciesHandler extends WriteHandler{
     /**
@@ -26,11 +34,14 @@ public class GetCaughtSpeciesHandler extends WriteHandler{
                 Gson gson = new Gson();
                 GetCaughtSpeciesRequest request = gson.fromJson(reqData, GetCaughtSpeciesRequest.class);
 
-                //Database db = Database.getInstance();
-                //Connection con = db.openConnection();
-                //RETURN CAUGHTSPECIESRESPONSE WITH ARRAY OF JOINED TABLE INFO
+                Connection con = new Database().getConn();
+                TrainerDAO trainerDAO = new TrainerDAO(con);
+                GetCaughtSpeciesResponse response = new GetCaughtSpeciesResponse(
+                        (CaughtPokemon[]) trainerDAO.getCaughtPokemon(request.getTrainerID()).toArray(),
+                        (PokemonSpecies[]) trainerDAO.getCaughtPokemon(request.getTrainerID()).toArray());
 
-                //DO STUFF
+
+                //ADD TO RESPONSEs
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);
                 reqBody.close();
             }

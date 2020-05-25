@@ -2,11 +2,16 @@ package handler;
 
 import com.google.gson.Gson;
 import com.sun.net.httpserver.HttpExchange;
+import dao.CaughtPokemonDAO;
+import dao.Database;
+import dao.TrainerDAO;
+import model.Trainer;
 import request.AddTrainerRequest;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
+import java.sql.Connection;
 
 public class AddTrainerHandler extends WriteHandler{
     /**
@@ -25,11 +30,12 @@ public class AddTrainerHandler extends WriteHandler{
                 Gson gson = new Gson();
                 AddTrainerRequest request = gson.fromJson(reqData, AddTrainerRequest.class);
 
-                //Database db = Database.getInstance();
-                //Connection con = db.openConnection();
-                //ADD TO TRAINER TABLE
+                Connection con = new Database().getConn();
+                TrainerDAO trainerDAO = new TrainerDAO(con);
+                trainerDAO.add(request.getTrainer());
 
-                //DO STUFF
+                //GET # RETURN #
+
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);
                 reqBody.close();
             }

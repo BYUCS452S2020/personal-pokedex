@@ -2,12 +2,17 @@ package handler;
 
 import com.google.gson.Gson;
 import com.sun.net.httpserver.HttpExchange;
+import dao.Database;
+import dao.MoveDAO;
+import dao.TrainerDAO;
 import request.AddTrainerRequest;
 import request.GetMovesRequest;
+import response.GetMovesResponse;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
+import java.sql.Connection;
 
 public class GetMovesHandler extends WriteHandler{
     /**
@@ -26,11 +31,15 @@ public class GetMovesHandler extends WriteHandler{
                 Gson gson = new Gson();
                 GetMovesRequest request = gson.fromJson(reqData, GetMovesRequest.class);
 
-                //Database db = Database.getInstance();
-                //Connection con = db.openConnection();
-                //Get all up 4 moves from table
+                Connection con = new Database().getConn();
+                MoveDAO moveDAO = new MoveDAO(con);
 
-                //DO STUFF
+                GetMovesResponse response = new GetMovesResponse(moveDAO.get(request.getMoveID1()),
+                        moveDAO.get(request.getMoveID2()),
+                        moveDAO.get(request.getMoveID3()),
+                        moveDAO.get(request.getMoveID4()));
+
+                //ADD TO RESPONSE
                 exchange.sendResponseHeaders(HttpURLConnection.HTTP_ACCEPTED, 0);
                 reqBody.close();
             }
