@@ -73,33 +73,47 @@ public class Database {
             try {
                 String sql = "create table if not exists Trainer\n" +
                         "(\n" +
-                        "\ttrainerID text not null,\n" +
-                        "\ttrainerName text not null,\n" +
-                        "\ttrainerSex text not null,\n" +
-                        "\ttrainerHometown text not null,\n" +
+                        "\tTrainerID text not null,\n" +
+                        "\tTrainerName text not null,\n" +
+                        "\tTrainerSex text not null,\n" +
+                        "\tTrainerHometown text not null,\n" +
                         ");\n";
                 String sql2 = "create table if not exists PokemonSpecie\n" +
                         "(\n" +
-                        "\t text not null,\n" +
-                        "\ttrainerName text not null,\n" +
-                        "\ttrainerSex text not null,\n" +
-                        "\ttrainerHometown text not null,\n" +
+                        "\tSpeciesName text not null,\n" +
+                        "\tSpeciesPokemonName text not null,\n" +
+                        "\tSpeciesImageUrl text not null,\n" +
+                        "\tSpeciesType1 text not null,\n" +
+                        "\tSpeciesType2 text not null,\n" +
+                        "\tSpeciesHeight text not null,\n" +
+                        "\tSpeciesWeight text not null,\n" +
+                        "\tSpeciesText text not null,\n" +
+                        "\tSpeciesBaseHP text not null,\n" +
+                        "\tSpeciesBaseAttack text not null,\n" +
+                        "\tSpeciesBaseDefense text not null,\n" +
+                        "\tSpeciesBaseSpecial text not null,\n" +
+                        "\tSpeciesBaseSpeed text not null,\n" +
                         ");\n";
                 String sql3 = "create table if not exists CaughtPokemon\n" +
                         "(\n" +
-                        "\tpokemonID text not null,\n" +
-                        "\ttrainerID text not null,\n" +
-                        "\tspecieID text not null,\n" +
-                        "\tsex text,\n" +
-                        "\tpokemonLevel text not null,\n" +
-                        "\tpokemonNickname text not null,\n" +
+                        "\tTrainerID text not null,\n" +
+                        "\tSpeciesID text not null,\n" +
+                        "\tCaughtPokemonSex text not null,\n" +
+                        "\tCaughtPokemonLevel text,\n" +
+                        "\tCaughtPokemonNickname text not null,\n" +
+                        "\tCaughtPokemonMoveID1 text not null,\n" +
+                        "\tCaughtPokemonMoveID2 text not null,\n" +
+                        "\tCaughtPokemonMoveID3 text not null,\n" +
+                        "\tCaughtPokemonMoveID4 text not null,\n" +
                         ");\n";
                 String sql4 = "create table if not exists Move\n" +
                         "(\n" +
-                        "\ttrainerID text not null,\n" +
-                        "\ttrainerName text not null,\n" +
-                        "\ttrainerSex text not null,\n" +
-                        "\ttrainerHometown text not null,\n" +
+                        "\tMoveID text not null,\n" +
+                        "\tMoveName text not null,\n" +
+                        "\tMoveText text not null,\n" +
+                        "\tMovePP text not null,\n" +
+                        "\tMoveBase text not null,\n" +
+                        "\tMoveAccuracy text not null,\n" +
                         ");\n";
                 TrainerStmt = conn.prepareStatement(sql);
                 PokemonSpeciesStmt = conn.prepareStatement(sql2);
