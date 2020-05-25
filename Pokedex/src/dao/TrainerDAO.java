@@ -63,9 +63,22 @@ public class TrainerDAO {
         List<CaughtPokemon> pokemon = new ArrayList<>();
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY JOIN TABLES
+            ResultSet rs = stmt.executeQuery("SELECT * FROM Trainer t\n" +
+                    "    JOIN CaughtPokemon c ON t.TrainerID == c.TrainerID\n" +
+                    "        WHERE t.TrainerID == " + trainerID);
             while(rs.next()) {
-                pokemon.add(null);//FIX ME: RS.GETS
+                pokemon.add(new CaughtPokemon(
+                        rs.getInt("CaughtPokemonID"),
+                        rs.getInt("TrainerID"),
+                        rs.getInt("SpeciesID"),
+                        rs.getString("CaughtPokemonSex"),
+                        rs.getInt("CaughtPokemonLevel"),
+                        rs.getString("CaughtPokemonNickname"),
+                        rs.getInt("CaughtPokemonMoveID1"),
+                        rs.getInt("CaughtPokemonMoveID2"),
+                        rs.getInt("CaughtPokemonMoveID3"),
+                        rs.getInt("CaughtPokemonMoveID4")
+                ));//FIX ME: RS.GETS
             }
         } catch (SQLException ex) {
             ex.printStackTrace();

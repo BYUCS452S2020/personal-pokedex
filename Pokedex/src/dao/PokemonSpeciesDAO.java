@@ -55,7 +55,8 @@ public class PokemonSpeciesDAO {
     public PokemonSpecies get(int speciesID){
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
+            ResultSet rs = stmt.executeQuery("SELECT * FROM PokemonSpecies\n" +
+                    "    WHERE SpeciesID == " + speciesID); //FIX ME: QUERY
             if(rs.next()) {
                 List<Pair<String,Move>> moves = new ArrayList<>(); //FIX ME: GET MOVES
                 return new PokemonSpecies(
@@ -86,9 +87,20 @@ public class PokemonSpeciesDAO {
         List<Pair<String, Move>> moves = new ArrayList<>();
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY JOIN TABLES
+            ResultSet rs = stmt.executeQuery("GetPossibleMoves\n" +
+                    "SELECT * FROM Move m\n" +
+                    "    Join PokemonMove p on m.MoveID == p.MoveID\n" +
+                    "        Where p.PokemonID == " + speciesID);
             while(rs.next()) {
-                moves.add(null);//FIX ME: RS.GETS
+                moves.add(new Pair<>(rs.getString("Requirement"),
+                        new Move(
+                            rs.getInt("MoveID"),
+                            rs.getString("MoveName"),
+                            rs.getString("MoveType"),
+                            rs.getString("MoveText"),
+                            rs.getInt("MovePP"),
+                            rs.getInt("MoveBase"),
+                            rs.getInt("MoveAccuracy"))));
             }
         } catch (SQLException ex) {
             ex.printStackTrace();

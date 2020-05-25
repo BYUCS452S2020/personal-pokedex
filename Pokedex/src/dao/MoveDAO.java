@@ -46,7 +46,8 @@ public class MoveDAO {
     public Move get(int moveID){
         try {
             Statement stmt = connection.createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT"); //FIX ME: QUERY
+            ResultSet rs = stmt.executeQuery("SELECT * FROM Move\n" +
+                    "    WHERE MoveID == " + moveID); //FIX ME: QUERY
             if(rs.next()) {
                 return new Move(
                         rs.getInt("MoveID"),

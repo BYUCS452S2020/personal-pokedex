@@ -10,7 +10,8 @@ public class CaughtPokemonDAO {
 
     public boolean add(CaughtPokemon pokemon){
         try {
-            PreparedStatement ps = connection.prepareStatement("INSERT INTO"); //FIX ME: STATEMENT
+            PreparedStatement ps = connection.prepareStatement("INSERT INTO CaughtPokemon (CaughtPokemonID, TrainerID, SpeciesID, CaughtPokemonSex, CaughtPokemonLevel, CaughtPokemonNickname, CaughtPokemonMoveID1, CaughtPokemonMoveID2, CaughtPokemonMoveID3, CaughtPokemonMoveID4) \n" +
+                    "VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
             ps.setInt(1, pokemon.getId());
             ps.setInt(2, pokemon.getTrainerId());
             ps.setInt(3, pokemon.getSpeciesId());
